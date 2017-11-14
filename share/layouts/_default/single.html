@@ -1,0 +1,30 @@
+{{ partial "top.html" . }}
+<head>
+{{ partial "header.html" . }}
+<title>{{ .Title }} — {{ .Site.Title }}</title>
+{{ if .Description }}<meta name="description" content="{{ .Description }}">{{ else }}{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}{{ end }}
+{{ with .Params.tags }}{{ $len := len . }}<meta name="keywords" content="{{ if eq $len 1 }}{{ index . 0 }}{{ else }}{{ $last := sub $len 1 }}{{ range first $last . }}{{ . }},{{ end }}{{ index . $last }}{{ end }}">{{ end }}
+</head>
+<body>
+{{ partial "prepare.html" . }}
+<div id='container'><!-- Container Area -->
+{{ partial "banner.html" . }}
+
+<main>
+<article itemscope itemtype='http://schema.org/BlogPosting' itemref='maker'>
+<h1 itemprop='name'>{{ .Title }}{{ with .Section }} [<a href="/{{ . | urlize }}">{{ . }}</a>]{{ end }}</h1>
+<nav class="tags">{{ with .Params.tags }}<div><a href="/tags">Tags</a>:{{ range sort . }} #<a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }}</div>{{ end }}</nav>
+
+<section>
+{{ .Content }}
+</section>
+
+</article>
+</main>
+
+{{ partial "feedback.html" . }}
+{{ partial "footer.html" . }}
+</div><!-- Container Area -->
+{{ partial "cleanup.html" . }}
+</body>
+{{ partial "end.html" . }}
