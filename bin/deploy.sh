@@ -3,6 +3,7 @@
 set -e
 
 yarn build
+
 if [ "`echo $?`" -eq 0 ]; then
   cd build
   git init

@@ -27,22 +27,32 @@ const $ = Object.assign(load(), {
 
 gulp.task('clean', async () => {
   await $.rmdir('build');
-  await $.rmdir('share/static');
   await $.mkdir('build');
-  await $.mkdir('share/static/public');
+  await $.rmdir('share/static');
 });
 
 gulp.task('copy', async () => {
   await Promise.all([
-    $.copy('src/public', 'share/static/public'),
+    $.copy('src/public', 'share/static'),
   ]);
 });
 
 gulp.task('copy:watch', async () => {
   await $.run('copy');
-  chokidar.watch(['share/static/public/**'], { ignoreInitial: true }).on('all', () => {
-    $.run('clean', 'copy');
-  });
+  const change = async (file) => {
+    const src = path.relative('./', file);
+    const dst = path.join(__dirname, 'share', 'static', path.relative('src', src));
+    await $.mkdir(path.dirname(dst));
+    await $.copy(src, dst);
+    $.util.log(`Update file ${$.util.colors.green(src)}`);
+  };
+  const unlink = async (file) => {
+    const src = path.relative('./', file);
+    const dst = path.join(__dirname, 'share', 'static', path.relative('src', src));
+    await $.rmdir(dst);
+    $.util.log(`Remove file ${$.util.colors.magenta(src)}`);
+  };
+  chokidar.watch(['src/public/**'], { ignoreInitial: true }).on('add', change).on('change', change).on('unlink', unlink).on('unlinkDir', unlink);
 });
 
 gulp.task('bundle', async () => {

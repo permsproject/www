@@ -1,0 +1,64 @@
+#header
+  box-sizing border-box
+  display flex
+  flex-direction column
+  height $gutter * 35
+  text-align center
+  background-color #F9F9F9
+
+  a
+    text-decoration none
+
+  #logo
+    flex 1
+    display flex
+    align-items center
+    justify-content space-around
+
+    img
+      display inline-block
+      width $gutter * 8
+      height $gutter * 8
+
+    h1
+      font-size 3em
+      font-weight 700
+      color $color-gray1
+
+    p
+      font-size 1.2em
+      font-weight 300
+      color $color-gray3
+
+  #menu
+    flex 0
+    margin 0 auto
+    max-width $screen
+    width 100%
+
+    ul
+      display flex
+      height $gutter * 7
+      border-top 1px dotted $color-gray4
+
+    li
+      flex 1
+
+      & + li span
+        border-left 1px solid $color-gray4
+
+    a
+      display flex
+      height 100%
+      justify-content space-around
+      align-items center
+      font-weight 700
+      color $color-gray2
+
+      &:hover
+        text-decoration underline
+
+    span
+      width 100%
+      height $gutter * 3
+      line-height @height

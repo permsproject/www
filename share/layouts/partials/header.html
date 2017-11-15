@@ -1,5 +1,28 @@
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Quicksand:400,700" rel="stylesheet" />
-{{ with .Site.Params.favicon }}<link rel="icon" type="image/x-icon" href="{{ . }}">{{ end }}
-{{ partial "assets.html" . }}
+<header id="header">
+  <a id="logo" href="/">
+    <div>
+      <img src="/logo.svg" />
+      <h1>PERMS</h1>
+      <p>We'll make you a permanent perm</p>
+    </div>
+  </a>
+  <div id="menu">
+    <ul>
+      <li>
+        <a href="#">
+          <span>About</span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          <span>Articles</span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          <span>Contact</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</header>
