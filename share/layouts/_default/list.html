@@ -1,21 +1,22 @@
-{{ partial "top.html" . }}
+<!DOCTYPE html>
+<html>
 <head>
-{{ partial "header.html" . }}
-<title>List of {{ .Title }} — {{ .Site.Title }}</title>
-<meta name="description" content="Entries of {{ .Title }}">
+  {{ partial "meta.html" . }}
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+  {{ partial "assets.html" . }}
 </head>
 <body>
-<div id='container'><!-- Container Area -->
-{{ partial "banner.html" . }}
+<div id='container'>
+  {{ partial "header.html" . }}
 
-<main>
-<article itemscope itemtype='http://schema.org/Blog' itemref='maker'>
-<h1 itemprop='name'>Entries of {{ .Title }} <a href='{{ .RSSLink }}' title='Feed'><i class='fa fa-rss'></i></a></h1>
-<ul class="title-list">{{ range .Data.Pages }}{{ partial "li.html" . }}{{ end }}</ul>
-</article>
-</main>
+  <main>
+    <article itemscope itemtype='http://schema.org/Blog' itemref='maker'>
+      <h1 itemprop='name'>Entries of {{ .Title }} <a href='{{ .RSSLink }}' title='Feed'><i class='fa fa-rss'></i></a></h1>
+      <ul class="title-list">{{ range .Data.Pages }}{{ partial "li.html" . }}{{ end }}</ul>
+    </article>
+  </main>
 
-{{ partial "footer.html" . }}
+  {{ partial "footer.html" . }}
 </div><!-- Container Area -->
 {{ partial "cleanup.html" . }}
 </body>

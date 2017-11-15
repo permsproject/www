@@ -1,28 +1,28 @@
-{{ partial "top.html" . }}
+<!DOCTYPE html>
+<html>
 <head>
-{{ partial "header.html" . }}
-<title>{{ .Title }} — {{ .Site.Title }}</title>
-{{ if .Description }}<meta name="description" content="{{ .Description }}">{{ else }}{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}{{ end }}
-{{ with .Params.tags }}{{ $len := len . }}<meta name="keywords" content="{{ if eq $len 1 }}{{ index . 0 }}{{ else }}{{ $last := sub $len 1 }}{{ range first $last . }}{{ . }},{{ end }}{{ index . $last }}{{ end }}">{{ end }}
+  {{ partial "meta.html" . }}
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+  {{ partial "assets.html" . }}
 </head>
 <body>
-<div id='container'><!-- Container Area -->
-{{ partial "banner.html" . }}
+<div id='container'>
+  {{ partial "header.html" . }}
 
-<main>
-<article itemscope itemtype='http://schema.org/BlogPosting' itemref='maker'>
-<h1 itemprop='name'>{{ .Title }}{{ with .Section }} [<a href="/{{ . | urlize }}">{{ . }}</a>]{{ end }}</h1>
-<nav class="tags">{{ with .Params.tags }}<div><a href="/tags">Tags</a>:{{ range sort . }} #<a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }}</div>{{ end }}</nav>
+  <main>
+    <article itemscope itemtype='http://schema.org/BlogPosting' itemref='maker'>
+      <h1 itemprop='name'>{{ .Title }}{{ with .Section }} [<a href="/{{ . | urlize }}">{{ . }}</a>]{{ end }}</h1>
+      <nav class="tags">{{ with .Params.tags }}<div><a href="/tags">Tags</a>:{{ range sort . }} #<a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }}</div>{{ end }}</nav>
 
-<section>
-{{ .Content }}
-</section>
+      <section>
+        {{ .Content }}
+      </section>
 
-</article>
-</main>
+    </article>
+  </main>
 
-{{ partial "feedback.html" . }}
-{{ partial "footer.html" . }}
+  {{ partial "feedback.html" . }}
+  {{ partial "footer.html" . }}
 </div><!-- Container Area -->
 {{ partial "cleanup.html" . }}
 </body>

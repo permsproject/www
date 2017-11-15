@@ -1,4 +1,4 @@
-title = "My New Hugo Site"
+title = "Perms Project"
 baseURL = "http://permsproject.com/"
 languageCode = "ja-jp"
 publishDir = "../build"
