@@ -24,6 +24,7 @@
     ]
   },
   "scripts": {
+    "deploy": "./bin/deploy.sh",
     "build": "NODE_ENV=production gulp build",
     "start": " gulp start"
   },

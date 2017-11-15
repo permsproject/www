@@ -66,7 +66,6 @@ gulp.task('hugo', async () => {
 gulp.task('build', async () => {
   await $.run('clean', 'copy', 'bundle');
   await $.hugo();
-  await $.write(path.join(__dirname, 'build', 'CNAME'), 'permsproject.com');
 });
 
 gulp.task('start', async () => {

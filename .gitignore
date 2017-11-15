@@ -4,5 +4,5 @@ Thumbs.db
 tmp
 build
 share/static
-share/layout/partials/assets.html
+share/layouts/partials/assets.html
 node_modules
