@@ -2,6 +2,8 @@
 
 ## develop
 
+Live reload ready.
+
 ```
 yarn
 yarn start
