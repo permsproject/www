@@ -6,8 +6,16 @@ $color-gray1 = #444E55
 $color-gray2 = #6D868B
 $color-gray3 = #93B0B5
 $color-gray4 = #DADDDE
+$color-gray5 = #F9F9F9
+
+$color-emphasis1 = #3454F6
+$color-emphasis2 = #4AD6DD
+$color-emphasis3 = #77EA9F
 
 global-reset()
+
+a
+  text-decoration none
 
 html, body
   height 100%
@@ -15,8 +23,17 @@ html, body
   font-size 12px
   font-weight 400
   font-family Quicksand, -apple-system, Sans-Serif
-  color $color-text
+  color $color-gray1
+  background-color white
   font-smoothing antialiased
   -webkit-tap-highlight-color transparent
 
+#content
+  min-height 100%
+
+  main
+    padding $gutter * 5
+
 @require './_header.styl'
+@require './_article.styl'
+@require './_footer.styl'

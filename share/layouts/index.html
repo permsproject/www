@@ -6,23 +6,22 @@
   {{ partial "assets.html" . }}
 </head>
 <body>
-  <div id='container'>
+  <div id='content'>
     {{ partial "header.html" . }}
 
     <main>
       <article itemscope itemtype='http://schema.org/Blog' itemref='maker'>
         <h1 itemprop='name'>What's New</h1>
-
         <section>
           <h2>All Entries</h2>
           <ul class="title-list">{{ range .Site.Pages }}{{ partial "li.html" . }}{{ end }}</ul>
         </section> <!-- All Entries -->
       </article>
+      <div id='push'></div>
     </main>
 
-    {{ partial "footer.html" . }}
-  </div><!-- Container Area -->
-  {{ partial "cleanup.html" . }}
+  </div>
+
+  {{ partial "footer.html" . }}
 </body>
-{{ partial "end.html" . }}
 </html>

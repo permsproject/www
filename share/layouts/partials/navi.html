@@ -1,5 +1,19 @@
-<nav>
-<ul class='cloud center'>
-<li>Powered by <a href='https://gohugo.io/'>Hugo {{ .Hugo.Version }}</a> and <a href="https://github.com/spiegel-im-spiegel/hugo-theme-text">Text</a>.</li>
-</ul>
-</nav>
+{{ if and (.Params.tags) (.Params.author) }}
+  <nav>
+    {{ with .Params.tags }}
+      <div class="tags">
+        {{ range sort . }}
+          <a class="tag tag-{{ . }}" href="/tags/{{ . | urlize }}">
+            {{ substr . 0 1 | upper }}{{ substr . 1 }}
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
+    {{ with .Params.author }}
+      <div class="author">
+        <img src="/writer/{{ . }}.png">
+        <span>{{ . }}</span>
+      </div>
+    {{ end }}
+  </nav>
+{{ end }}

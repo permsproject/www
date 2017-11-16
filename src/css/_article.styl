@@ -1,0 +1,57 @@
+article
+  margin 0 auto
+  max-width $screen
+
+  nav
+    margin-bottom $gutter * 2
+    display flex
+    align-items center
+    justify-content space-between
+    width 100%
+
+  .tags
+    display flex
+    align-items center
+
+  .tag
+    width $gutter * 15
+    height $gutter * 5
+    line-height @height
+    color white
+    font-size 1.2em
+    font-weight 700
+    text-align center
+
+    & + .tag, & + .author
+      margin-left $gutter
+
+    &.tag-release
+      background-color $color-emphasis1
+
+    &.tag-lifehack
+      background-color $color-emphasis2
+
+    &.tag-engineering
+      background-color $color-emphasis3
+
+    &.tag-poem
+      background-color $color-gray2
+
+  .author
+    display flex
+    height $gutter * 5
+    align-items center
+
+    img
+      width $gutter * 4
+      height @width
+      border-radius 50%
+
+    span
+      margin-left $gutter
+      font-weight bold
+
+  h1
+    margin-bottom $gutter * 2
+    font-size 3em
+    font-weight 700
