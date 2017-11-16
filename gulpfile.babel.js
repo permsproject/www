@@ -90,5 +90,5 @@ gulp.task('start', async () => {
       resolve();
     });
   });
-  await $.hugo(['server', '--buildDrafts', '--watch']);
+  await $.hugo(['server', '--watch']);
 });
