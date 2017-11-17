@@ -37,11 +37,6 @@ tags: []
           <i data-feather="instagram"></i>
         </a>
       </li>
-      <li>
-        <a href="//github.com/yuppon" target="new">
-          <i data-feather="github"></i>
-        </a>
-      </li>
     </ul>
   </div>
   <div class="avatar geta6">
@@ -49,7 +44,7 @@ tags: []
     <div class="icon"></div>
     <div class="name">Hirotaka Katakura</div>
     <ul class="body">
-      <li>Engineer</li>
+      <li>Founder / Engineer</li>
       <li>
         <i data-feather="mail"></i>
         <span>geta6@permsproject.com</span>
