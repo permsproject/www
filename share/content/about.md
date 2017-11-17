@@ -5,8 +5,6 @@ type: page
 tags: []
 ---
 
-
-
 ## Members
 
 <div class="avatars">
