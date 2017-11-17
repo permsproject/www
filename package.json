@@ -28,7 +28,9 @@
     "build": "NODE_ENV=production gulp build",
     "start": " gulp start"
   },
-  "dependencies": {},
+  "dependencies": {
+    "domready": "^1.0.8"
+  },
   "devDependencies": {
     "assets-webpack-plugin": "^3.5.1",
     "babel-core": "^6.26.0",
