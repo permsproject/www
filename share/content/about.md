@@ -5,6 +5,8 @@ type: page
 tags: []
 ---
 
+
+
 ## Members
 
 <div class="avatars">
@@ -13,7 +15,7 @@ tags: []
     <div class="icon"></div>
     <div class="name">Yuta Takeuchi</div>
     <ul class="body">
-      <li>Director</li>
+      <li>Founder / Design Engineer</li>
       <li>
         <i data-feather="mail"></i>
         <span>yuppon@permsproject.com</span>
@@ -47,7 +49,7 @@ tags: []
     <div class="icon"></div>
     <div class="name">Hirotaka Katakura</div>
     <ul class="body">
-      <li>Enginner</li>
+      <li>Engineer</li>
       <li>
         <i data-feather="mail"></i>
         <span>geta6@permsproject.com</span>
