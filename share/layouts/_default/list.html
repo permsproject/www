@@ -3,6 +3,7 @@
 <head>
   {{ partial "meta.html" . }}
   <title>{{ .Title }} — {{ .Site.Title }}</title>
+  <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
   {{ partial "assets.html" . }}
 </head>
 <body>
@@ -22,5 +23,7 @@
   </div>
 
   {{ partial "footer.html" . }}
+
+  <script>feather.replace()</script>
 </body>
 </html>

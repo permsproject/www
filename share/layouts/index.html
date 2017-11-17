@@ -3,6 +3,7 @@
 <head>
   {{ partial "meta.html" . }}
   <title>{{ .Site.Title }}</title>
+  <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
   {{ partial "assets.html" . }}
 </head>
 <body>
@@ -15,7 +16,7 @@
         <section>
           <h2>All Entries</h2>
           <ul class="title-list">{{ range .Site.Pages }}{{ partial "li.html" . }}{{ end }}</ul>
-        </section> <!-- All Entries -->
+        </section>
       </article>
       <div id='push'></div>
     </main>
@@ -23,5 +24,7 @@
   </div>
 
   {{ partial "footer.html" . }}
+
+  <script>feather.replace()</script>
 </body>
 </html>
