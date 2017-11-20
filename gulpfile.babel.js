@@ -60,7 +60,9 @@ gulp.task('bundle', async () => {
   const config = webpackConfig();
   await new Promise((resolve, reject) => {
     const bundler = webpack(config);
-    bundler.apply(new webpack.ProgressPlugin());
+    if (process.env.NODE_ENV !== 'production') {
+      bundler.apply(new webpack.ProgressPlugin());
+    }
     bundler.run((err, stats) => {
       if (err) return reject(err);
       $.util.log(stats.toString(config.stats));
