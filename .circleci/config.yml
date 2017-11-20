@@ -45,6 +45,8 @@ jobs:
             cd build
             git init
             git remote add origin git@github.com:geta6/perms.git
+            git config --global user.email "info@permsproject.com"
+            git config --global user.name "perms"
             echo 'www.permsproject.com' > CNAME
             git checkout -b gh-pages
             git add .
