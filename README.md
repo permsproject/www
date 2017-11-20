@@ -43,4 +43,4 @@ Javascript、Stylesheet、画像等のアセットは `src` 以下に保存さ�
 
 ## デプロイする
 
-CircleCIでテストが通過すると勝手にデプロイされます。
+masterブランチがCircleCIを通過すると勝手にデプロイされます。
