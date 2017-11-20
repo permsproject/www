@@ -26,8 +26,12 @@
   "scripts": {
     "deploy": "./bin/deploy.sh",
     "build": "NODE_ENV=production gulp build",
-    "start": " gulp start"
+    "start": " gulp start",
+    "precommit": "sh lib/scripts/precommit.sh"
   },
+  "precommit": [
+    "precommit"
+  ],
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "babel-runtime": "^6.26.0",
@@ -54,8 +58,6 @@
     "gulp-load-plugins": "^1.5.0",
     "gulp-util": "^3.0.8",
     "hugo-bin": "^0.17.0",
-    "imagemin-cli": "^3.0.0",
-    "jsonlint": "^1.6.2",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
     "nib": "^1.1.2",
