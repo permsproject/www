@@ -24,7 +24,6 @@
     ]
   },
   "scripts": {
-    "deploy": "./bin/deploy.sh",
     "build": "NODE_ENV=production gulp build",
     "start": " gulp start",
     "precommit": "sh lib/scripts/precommit.sh"
