@@ -1,0 +1,42 @@
+version: 2
+
+jobs:
+  build:
+    working_directory: ~/perms
+    docker:
+      - image: node:8
+    steps:
+      - checkout
+      - restore_cache:
+          key: perms-{{ checksum "yarn.lock" }}
+      - run:
+          name: Install Hugo
+          command: |
+            wget https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.deb
+            sudo dpkg -i hugo_0.30.2_Linux-64bit.deb
+      - run:
+          name: System information
+          command: |
+            echo "Node $(node -v)"
+            echo "Yarn v$(yarn --version)"
+            echo "$(hugo version)"
+      - run:
+          name: Install dependencies
+          command: yarn
+      - run:
+          name: Lint (Stylint)
+          command: ./node_modules/.bin/stylint src
+      - run:
+          name: Lint (ESLint)
+          command: |
+            ./node_modules/.bin/eslint . --parser babel-eslint --ext .js,.jsx
+      - save_cache:
+          key: perms-{{ checksum "yarn.lock" }}
+          paths:
+            - ~/perms/node_modules
+            - ~/.cache/yarn
+  deployment:
+    production:
+      branch: master
+      commands:
+        - ./bin/deploy.sh

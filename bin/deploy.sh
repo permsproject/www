@@ -6,11 +6,13 @@ yarn build
 
 if [ "`echo $?`" -eq 0 ]; then
   cd build
+  if [ -d ".git" ]; then
+    rm -rf .git
+  fi
   git init
-  git remote add origin git@github.com:geta6/perms.git
-  git checkout -b gh-pages
+  git remote add origin git@github.com:permsproject/www.git
   echo 'www.permsproject.com' > CNAME
   git add .
   git commit -am 'Release'
-  git push -f origin gh-pages
+  git push -fu origin master
 fi
