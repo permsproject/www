@@ -40,10 +40,18 @@ jobs:
     docker:
       - image: node:8
     steps:
+      - checkout
       - run:
-          name: Deploy
+          name: Build
           command: |
-            ./bin/deploy.sh
+            yarn build
+            git init
+            git remote add origin git@github.com:geta6/perms.git
+            echo 'www.permsproject.com' > CNAME
+            git checkout -b gh-pages
+            git add .
+            git commit -am 'Release'
+            git push -fu origin gh-pages
 
 workflows:
   version: 2
