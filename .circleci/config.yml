@@ -24,6 +24,18 @@ jobs:
           name: Lint (ESLint)
           command: |
             ./node_modules/.bin/eslint . --parser babel-eslint --ext .js,.jsx
+
+  deploy:
+    working_directory: ~/perms
+    docker:
+      - image: node:8
+    steps:
+      - checkout
+      - restore_cache:
+          key: perms-{{ checksum "yarn.lock" }}
+      - run:
+          name: Install dependencies
+          command: yarn
       - run:
           name: Deploy
           command: |
@@ -36,10 +48,22 @@ jobs:
             git config --global user.name "perms"
             echo 'www.permsproject.com' > CNAME
             git add .
-            git commit -am 'Release'
+            git commit -am 'Release [ci skip]'
             git push -fu origin gh-pages
       - save_cache:
           key: perms-{{ checksum "yarn.lock" }}
           paths:
             - ~/perms/node_modules
             - ~/.cache/yarn
+
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
