@@ -35,8 +35,24 @@ jobs:
           paths:
             - ~/perms/node_modules
             - ~/.cache/yarn
-  deployment:
-    production:
-      branch: master
-      commands:
-        - ./bin/deploy.sh
+  deploy:
+    working_directory: ~/perms
+    docker:
+      - image: node:8
+    steps:
+      - run:
+          name: Deploy
+          command: |
+            ./bin/deploy.sh
+
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
