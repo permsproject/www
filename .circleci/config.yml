@@ -45,6 +45,7 @@ jobs:
           name: Build
           command: |
             yarn build
+            cd build
             git init
             git remote add origin git@github.com:geta6/perms.git
             echo 'www.permsproject.com' > CNAME
