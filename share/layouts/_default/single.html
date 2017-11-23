@@ -13,7 +13,7 @@
     <main>
       <article itemscope itemtype='http://schema.org/BlogPosting' itemref='maker'>
         {{ partial "navi.html" . }}
-        <h1 itemprop='name'>{{ .Title }}</h1>
+        <h1>{{ .Title }}</h1>
         <section>
           {{ if eq .Type "works" }}
             {{ partial "works.html" . }}
