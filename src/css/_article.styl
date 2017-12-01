@@ -2,6 +2,33 @@ article
   margin 0 auto
   max-width $screen
 
+  h1
+    margin-bottom 1em
+    font-size 3em
+    font-weight 700
+    text-align center
+
+  h2
+    margin-top 2em
+    margin-bottom 1em
+    font-size 2em
+    font-weight 700
+    text-align center
+
+  h3
+    margin-bottom 1em
+    font-size 1.5em
+    font-weight 700
+    text-align left
+
+  ul
+    margin-bottom 2em
+    list-style-type disc
+
+  li
+    margin-left 2em
+    padding-left 0
+
   nav
     margin-bottom $gutter * 2
     display flex
@@ -51,28 +78,69 @@ article
       margin-left $gutter
       font-weight bold
 
-  h1
-    margin-bottom 0.5em
-    font-size 3em
-    font-weight 700
+  .avatars
     text-align center
 
-  h2
-    margin-bottom 0.5em
-    font-size 2em
-    font-weight 700
-    text-align center
+    .avatar
+      padding-top $gutter * 2
+      width 100%
 
-  h3
-    margin-bottom 0.5em
-    font-size 1.5em
-    font-weight 700
-    text-align left
+      .head, .icon
+        background-size cover
+        background-position 50% 50%
+        background-repeat no-repeat
 
-  ul
-    margin-bottom 2em
-    list-style-type disc
+      .head
+        height $gutter * 18
 
-  li
-    margin-left 2em
-    padding-left 0
+      .icon
+        margin $gutter * -5 auto 0
+        width $gutter * 10
+        height $gutter * 10
+        border-radius 50%
+        box-shadow 0 0 0 $gutter * 0.5 rgba(255, 255, 255, 0.24)
+
+      .name
+        margin $gutter
+        color $color-gray2
+        font-size 2em
+        font-weight 700
+        border-bottom 1px dotted $color-gray3
+
+      .body
+        margin-bottom $gutter * 2
+
+        svg
+          display inline-block
+          vertical-align middle
+          width 1em
+          height 1em
+
+      .social
+        margin-bottom $gutter * 2
+
+        a
+          display inline-block
+          vertical-align middle
+          color $color-emphasis1
+
+          & + a
+            margin-left $gutter
+
+        svg
+          width 1.5em
+          height 1.5em
+
+      &.yuppon
+        .head
+          background-image url('/profile/yuppon_bg.jpg')
+
+        .icon
+          background-image url('/profile/yuppon.png')
+
+      &.geta6
+        .head
+          background-image url('/profile/geta6_bg.jpg')
+
+        .icon
+          background-image url('/profile/geta6.png')
