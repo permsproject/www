@@ -6,7 +6,7 @@ type: posts
 author: perms
 ---
 
-![touchcast](/release/touchcast.png "touchcast")
+![touchcast](/img/release/touchcast.png "touchcast")
 ### Comment
 - 触感コンテンツをオンラインで創作できるプラットフォーム。現実世界の触感をコピーして、塗り絵のように触感をペーストできます。この触感のコピー＆ペーストをマイクとスピーカーという誰でも簡単に扱うことができるシステム構成で実現しました。
 
@@ -22,3 +22,4 @@ author: perms
 ### Credit
 - Director, Engineer : YUTA TAKEUCHI
 - Engineer : HIROTAKA KATAKURA
+- Collaborators : Sho Kamuro, Kouta Minamizawa and Susumu Tachi
