@@ -1,13 +1,13 @@
 ---
 title: touchcast
-date: 2017-11-14T15:22:25+09:00
+date: 2017-12-31T15:22:25+09:00
 tags: [release]
 type: posts
 author: perms
 ---
 
 ![touchcast](/img/release/touchcast.png "touchcast")
-### Comment
+### Discription
 - 触感コンテンツをオンラインで創作できるプラットフォーム。現実世界の触感をコピーして、塗り絵のように触感をペーストできます。この触感のコピー＆ペーストをマイクとスピーカーという誰でも簡単に扱うことができるシステム構成で実現しました。
 
 ### Award
@@ -20,6 +20,9 @@ author: perms
 - Yuta Takeuchi, Sho Kamuro, Kouta Minamizawa and Susumu Tachi: TouchCast, in Proc. Laval Virtual VRIC 2012, Laval, France (2013.3)
 
 ### Credit
-- Director, Engineer : YUTA TAKEUCHI
-- Engineer : HIROTAKA KATAKURA
+- Director, Engineer : YUTA TAKEUCHI (perms)
+- Engineer : HIROTAKA KATAKURA (perms)
 - Collaborators : Sho Kamuro, Kouta Minamizawa and Susumu Tachi
+
+### Demo Movie
+<iframe width="720" height="405" src="https://www.youtube.com/embed/vHxOs3c7AM8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
