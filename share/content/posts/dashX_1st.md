@@ -24,5 +24,7 @@ author: perms
 
 ![dashX_1st_anniversary.png](/img/works/dash_1st_3.png "dashX_1st_anniversary")
 
+![dashX_1st_anniversary.png](/img/works/dash_1st_4.png "dashX_1st_anniversary")
+
 <!-- ### Demo Movie
 <iframe src="https://player.vimeo.com/video/83606253" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

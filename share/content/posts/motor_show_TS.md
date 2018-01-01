@@ -18,6 +18,7 @@ author: perms
 ### Credit
 - Client : TS Tech inc.
 - Director, Technical Director : YUTA TAKEUCHI (perms)
+- Agency : Dentsu ScienceJam
 
 <!-- ### Demo Movie
 <iframe src="https://player.vimeo.com/video/83606253" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
