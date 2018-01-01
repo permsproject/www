@@ -1,6 +1,6 @@
 ---
 title: 感性アナライザ
-date: 2014-12-31T15:22:25+09:00
+date: 2014-1-1T15:22:25+09:00
 tags: [release]
 type: posts
 author: perms

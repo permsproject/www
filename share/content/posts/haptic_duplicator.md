@@ -1,6 +1,6 @@
 ---
 title: Haptic Duplicator
-date: 2013-12-31 T15:22:25+09:00
+date: 2011-1-1 T15:22:25+09:00
 tags: [release]
 type: posts
 author: perms
