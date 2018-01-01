@@ -6,7 +6,7 @@ type: posts
 author: perms
 ---
 
-![touchcast](/img/release/touchcast.png "touchcast")
+![touchcast](/img/works/touchcast.png "touchcast")
 ### Discription
 - 触感コンテンツをオンラインで創作できるプラットフォーム。現実世界の触感をコピーして、塗り絵のように触感をペーストできます。この触感のコピー＆ペーストをマイクとスピーカーという誰でも簡単に扱うことができるシステム構成で実現しました。
 
