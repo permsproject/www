@@ -18,8 +18,8 @@ author: perms
 - ADFEST BRONZE 2017
 
 ### Credit
-- Client : hitorizawa, yuru sports association
 - Technical Director : YUTA TAKEUCHI (perms)
+- Client : hitorizawa, yuru sports association
 - Production : TAIYO KIKAKU inc. and Tongaruman inc.
 
 ### Gallery

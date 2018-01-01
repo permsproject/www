@@ -13,10 +13,10 @@ author: perms
 - プロジェクションマッピング, モーションキャプチャ, ゲームデザイン
 
 ### Credit
-- Client : yuru sports association
 - Technical Director : YUTA TAKEUCHI (perms)
+- Client : yuru sports association
 - Collaboration : Koike Lab.(TITECH)
-- - Agency : Dentsu
+- Agency : Dentsu
 
 ### Gallery
 ![electric_onsen](/img/works/electric_onsen_2.png "electric_onsen")

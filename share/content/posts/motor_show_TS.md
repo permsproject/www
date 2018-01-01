@@ -16,8 +16,8 @@ author: perms
 - WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014) -->
 
 ### Credit
-- Client : TS Tech inc.
 - Director, Technical Director : YUTA TAKEUCHI (perms)
+- Client : TS Tech inc.
 - Agency : Dentsu ScienceJam
 
 <!-- ### Demo Movie

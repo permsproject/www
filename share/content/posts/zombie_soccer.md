@@ -13,8 +13,8 @@ author: perms
 - ルール詳細はこちら：http://yurusports.com/sports/zombiesoccer
 
 ### Credit
-- Client : yuru sports association, blind soccer association
 - Technical Director : YUTA TAKEUCHI (perms)
+- Client : yuru sports association, blind soccer association
 - Agency : Dentsu
 
 ### Gallery

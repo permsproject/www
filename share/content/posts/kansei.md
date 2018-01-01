@@ -14,6 +14,7 @@ author: perms
 ### Credit
 - Director, Technical Director : YUTA TAKEUCHI (perms)
 - Production Company : Aizu Laboratory
+- Agency : Dentsu ScienceJam
 
 ### Web
 - https://kansei-analyzer.com/

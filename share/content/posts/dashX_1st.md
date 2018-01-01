@@ -16,8 +16,9 @@ author: perms
 - WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014) -->
 
 ### Credit
-- Client : Shueisha inc.
 - Director, Designer : YUTA TAKEUCHI (perms)
+- Client : Shueisha inc.
+- Agency : Dentsu
 
 ### Gallery
 ![dashX_1st_anniversary](/img/works/dash_1st_2.png "dashX_1st_anniversary")
