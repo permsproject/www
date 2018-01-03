@@ -1,6 +1,6 @@
 ---
 title: care communicator
-date: 2015-1-1T15:22:25+09:00
+date: 2015-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![care_communicator.png](/img/works/care_communicator.png "care_communicator.png")
 
-### Discription
+### Description
 - 感性アナライザを介護現場で導入する試みのお手伝いを行いました。
 
 ### Credit

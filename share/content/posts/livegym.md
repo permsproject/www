@@ -1,13 +1,13 @@
 ---
 title: 2zicon Live Gym
-date: 2014-1-1 T15:22:25+09:00
+date: 2014-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
 ---
 
 ![livegym](/img/works/livegym.png "livegym")
-### Discription
+### Description
 - 萌えるライブを燃えるライブに。応援すればするほど、カロリーが燃えるライブ演出を行いました。
 
 ### Award

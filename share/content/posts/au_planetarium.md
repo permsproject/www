@@ -1,6 +1,6 @@
 ---
 title: au × HAKUTO プラネタリウム
-date: 2016-1-1 T15:22:25+09:00
+date: 2016-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![au_planetarium](/img/works/au_planetarium.png "au_planetarium")
 
-### Discription
+### Description
 - au × HAKUTO MOON CHALLENGEの一環として、プラネタリムの制作をお手伝いしました。
 
 <!-- ### Award

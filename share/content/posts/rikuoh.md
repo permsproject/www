@@ -1,6 +1,6 @@
 ---
 title: 陸王 ウェブ
-date: 2015-1-1 T15:22:25+09:00
+date: 2015-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![rikuoh](/img/works/rikuoh.png "rikuoh")
 
-### Discription
+### Description
 - ウェブローンチ後の更新作業等お手伝いいたしました。
 
 <!-- ### Award

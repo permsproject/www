@@ -1,6 +1,6 @@
 ---
 title: Haptic Editor
-date: 2012-1-1 T15:22:25+09:00
+date: 2012-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -10,7 +10,7 @@ author: perms
 
 ![haptic_editor](/img/works/haptic_editor_2.png "haptic_editor")
 
-### Discription
+### Description
 - 絵を書くように3Dモデリングが可能なエディタ。更に触覚までデザインすることができます。
 
 ### Award

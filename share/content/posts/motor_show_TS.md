@@ -1,6 +1,6 @@
 ---
 title: モーターショー2015
-date: 2015-1-1 T15:22:25+09:00
+date: 2015-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![tstech](http://www.tstech.co.jp/2015motor/boothreport/img/hd_boothreport@2x.jpg "tstech")
 
-### Discription
+### Description
 - 2015年度東京モーターショー TS Techさまブースのお手伝いをさせていただきました。
 - 生体信号の計測によって、気持ちに応じて形状が変化するイスを制作。デモ展示を行いました。
 - http://www.tstech.co.jp/2015motor/index.html

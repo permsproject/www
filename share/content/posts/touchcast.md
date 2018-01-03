@@ -1,13 +1,13 @@
 ---
 title: touchcast
-date: 2012-1-1:22:25+09:00
+date: 2012-01-01 22:25:00
 tags: [release]
 type: posts
 author: perms
 ---
 
 ![touchcast](/img/works/touchcast.png "touchcast")
-### Discription
+### Description
 - 触感コンテンツをオンラインで創作できるプラットフォーム。現実世界の触感をコピーして、塗り絵のように触感をペーストできます。この触感のコピー＆ペーストをマイクとスピーカーという誰でも簡単に扱うことができるシステム構成で実現しました。
 
 ### Award

@@ -1,6 +1,6 @@
 ---
 title: UMOOD
-date: 2015-1-1 T15:22:25+09:00
+date: 2015-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![umood](/img/works/umood.png "v")
 
-### Discription
+### Description
 - 気分にあったUTをリコメンドするシステムの実装を支援しました。
 
 <!-- ### Award

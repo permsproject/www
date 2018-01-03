@@ -1,6 +1,6 @@
 ---
 title: てあらいかがみ
-date: 2014-1-1 T15:22:25+09:00
+date: 2014-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -10,7 +10,7 @@ author: perms
 
 ![neurocam](/img/works/tearaikagami_2.png "tearaikagami_2")
 
-### Discription
+### Description
 - 手洗いの重要性は認識されていきているものの、正しい手洗いの方法は浸透していなく、病気の十分な予防には至っていません。「てあらいかがみ」は、ゲームのようにたのしく、正しい手洗いの方法を勉強できる鏡です。夢中になって、遊んでいるうちにいつの間にか手が綺麗になっています。
 
 ### Award

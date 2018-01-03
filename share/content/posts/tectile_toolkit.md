@@ -1,6 +1,6 @@
 ---
 title: techtile toolkit
-date: 2011-1-1:22:25+09:00
+date: 2011-01-01 22:25:00
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![techtile](/img/works/techtile.png "techtile")
 
-### Discription
+### Description
 - 触感を用いた表現のためのラピッドプロトタイピングツール。
 - ごくわずかにお手伝いさせていただきました。
 

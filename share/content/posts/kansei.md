@@ -1,6 +1,6 @@
 ---
 title: 感性アナライザ
-date: 2014-1-1T15:22:25+09:00
+date: 2014-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![kansei](/img/works/kansei.png "kansei")
 
-### Discription
+### Description
 - 生体信号から「好き度」「興味度」など無意識状態における5つの感性を推定するアプリケーション。
 
 ### Credit

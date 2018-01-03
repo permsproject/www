@@ -1,6 +1,6 @@
 ---
 title: ナツイチ 2015
-date: 2015-1-1 T15:22:25+09:00
+date: 2015-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![natsuichi](/img/works/natsuichi_2015.png "natsuichi")
 
-### Discription
+### Description
 - 集英社文庫夏のキャンペーン、ナツイチのお手伝いをいたしました。
 - ウェブ, ムービー, グラフィック etc...
 

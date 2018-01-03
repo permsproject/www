@@ -1,6 +1,6 @@
 ---
 title: au × HAKUTO VR
-date: 2016-1-1 T15:22:25+09:00
+date: 2016-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![au_VR](/img/works/au_VR.png "au_VR")
 
-### Discription
+### Description
 - au × HAKUTO MOON CHALLENGEの一環として、月面旅行が当たり前になった時代を舞台にしたVRの制作をお手伝いしました。VRヘッドセットをかぶり、バスに乗り込むとバスの走行に応じて、VR空間内の視点も移動。まるで月面探査車に乗って月を旅しているかの体験ができます。
 
 

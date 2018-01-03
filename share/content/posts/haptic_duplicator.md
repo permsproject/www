@@ -1,6 +1,6 @@
 ---
 title: Haptic Duplicator
-date: 2011-1-1 T15:22:25+09:00
+date: 2011-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -12,7 +12,7 @@ author: perms
 
 ![touchcast](/img/works/haptic_duplicator_3.png "haptic_duplicator")
 
-### Discription
+### Description
 - モノの触り心地を感じられる3Dテレビ。飛び出てきた物体に触ることができます。
 
 ### publication

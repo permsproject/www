@@ -1,6 +1,6 @@
 ---
 title: ダッシュエックス文庫 創刊一周年CP
-date: 2015-1-1 T15:22:25+09:00
+date: 2015-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![dashX_1st_anniversary.png](/img/works/dash_1st_1.png "dashX_1st_anniversary")
 
-### Discription
+### Description
 - ダッシュエックス文庫創刊キャンペーンに続き、一周年キャンペーンのお手伝いをさせていただきました。
 - グラフィック, 各種販促物, 3Dキャラクター etc...
 

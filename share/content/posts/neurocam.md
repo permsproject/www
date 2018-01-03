@@ -1,6 +1,6 @@
 ---
 title: neurocam
-date: 2014-1-1 T15:22:25+09:00
+date: 2014-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -10,7 +10,7 @@ author: perms
 
 ![neurocam](/img/works/neurocam_2.png "neurocam_2")
 
-### Discription
+### Description
 - あなたのキモチを理解するウェアラブルカメラ。頭につけたセンサーから脳波を解析し、あなたが「気になる瞬間」を自動的に記録してくれます。
 
 ### Award

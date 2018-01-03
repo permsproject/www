@@ -1,13 +1,13 @@
 ---
 title: INTERNET SHRINE
-date: 2014-1-1 T15:22:25+09:00
+date: 2014-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
 ---
 
 ![touchcast](/img/works/internet_shrine.png "internet_shrine")
-### Discription
+### Description
 - インターネット神社は祈ることによって、WiFiを提供してくれる神社。インターネットの神さまにお祈りしてWiFiを手に入れましょう。
 - ウェブサイト：http://internetshrine.tumblr.com/
 

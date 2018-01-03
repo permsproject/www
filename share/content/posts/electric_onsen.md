@@ -1,6 +1,6 @@
 ---
 title: エレクトリック温泉
-date: 2016-1-1 T15:22:25+09:00
+date: 2016-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![electric_onsen](/img/works/electric_onsen.png "electric_onsen")
 
-### Discription
+### Description
 - 銭湯や温泉にプロジェクションすることで、ゲームやコンテンツ鑑賞を行えるシステムを開発しました。
 - プロジェクションマッピング, モーションキャプチャ, ゲームデザイン
 

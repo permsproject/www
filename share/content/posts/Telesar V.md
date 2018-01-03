@@ -1,14 +1,14 @@
 ---
 title: Telesar V
-date: 2011-1-1:22:25+09:00
+date: 2011-01-01 22:25:00
 tags: [release]
 type: posts
 author: perms
 ---
 
-![telesar5](/img/works/telesar5.png "telesar5")
+![telesar5](/img/works/telesar5.png)
 
-### Discription
+### Description
 - 自分の分身となるアバターロボットとまるで一体となったかのような感覚で、視覚・聴覚・触覚が融合した遠隔体験を得ることができる「テレイグジスタンス」ロボット。
 - ごくわずかにお手伝いさせていただきました。
 

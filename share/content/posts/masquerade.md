@@ -1,6 +1,6 @@
 ---
 title: マスカレードシリーズ ウェブ
-date: 2015-1-1 T15:22:25+09:00
+date: 2017-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![dashX_1st_masquerade](/img/works/masquerade.png "masquerade")
 
-### Discription
+### Description
 - マスカレード・ナイト発売時、リニューアルと発売プロモーションを担当しました。
 - グラフィック, ウェブ, ムービー etc...
 

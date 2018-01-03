@@ -1,6 +1,6 @@
 ---
 title: ゾンビサッカー
-date: 2016-1-1 T15:22:25+09:00
+date: 2016-01-01 15:22:25
 tags: [release]
 type: posts
 author: perms
@@ -8,7 +8,7 @@ author: perms
 
 ![zombie_soccer](/img/works/zombie_soccer.png "zombie_soccer")
 
-### Discription
+### Description
 - ブラインドサッカーにインスパイアされた新しいスポーツの開発を行いました。
 - ルール詳細はこちら：http://yurusports.com/sports/zombiesoccer
 
