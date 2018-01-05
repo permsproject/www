@@ -5,11 +5,7 @@ type: page
 tags: []
 ---
 
-
-## What is perms?
-<div class="avatars">
-  <div>ウェブ、フィジカルコンピューティング、VRなどジャンルを問わず様々なコンテンツ開発を行うデザインスタジオです。</div>
-</div>
+<div class="desc">permsは東京を拠点に活動するデザインスタジオです。<span>ウェブ、インスタレーション、VRなど幅広い分野で開発、プロトタイピングを行っています。</span></div>
 
 ## Members
 
