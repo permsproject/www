@@ -6,7 +6,7 @@ type: posts
 author: perms
 ---
 
-![umood](/img/works/umood.png "v")
+![umood](/img/works/UMOOD.png "v")
 
 ### Description
 - 気分にあったUTをリコメンドするシステムの実装を支援しました。

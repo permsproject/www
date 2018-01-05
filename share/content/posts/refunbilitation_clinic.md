@@ -11,16 +11,16 @@ author: perms
 ### Description
 - お年寄りが楽しみながらリハビリできるトレーニングコンテンツの制作に協力しました。
 
-### Award
-- CANNE LIONS PHARA BRONZE 2016
-- SPIKES BRONZE 2016
-- AD STAR SILVER 2016
-- ADFEST BRONZE 2017
-
 ### Credit
 - Technical Director : YUTA TAKEUCHI (perms)
 - Client : hitorizawa, yuru sports association
 - Production : TAIYO KIKAKU inc. and Tongaruman inc.
+
+### Award
+- CANNE LIONS PHARMA BRONZE 2016
+- SPIKES BRONZE 2016
+- AD STAR SILVER 2016
+- ADFEST BRONZE 2017
 
 ### Gallery
 ![refunbilitation](/img/works/refunbilitation_2.png "refunbilitation")

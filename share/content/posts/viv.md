@@ -14,5 +14,9 @@ author: perms
 ### Award
 - Tech lab paak
 
+### Credit
+- Director, Engineer : YUTA TAKEUCHI(perms)
+- Engineer : HIROTAKA KATAKURA(perms)
+
 ### Exhibition
 - Tech Crunch Tokyo 2017

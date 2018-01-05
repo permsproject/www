@@ -22,7 +22,7 @@ author: perms
 - ASIA DIGITAL ART AWARD受賞展
 
 ### Credit
-- Creative Director & Technical Director : Yuta Takeuchi
+- Creative Director & Technical Director : YUTA TAKEUCHI(perms)
 - Art Director & Designer : Eri Nishihara
 - Engineer: Yuta Takeuchi, Tomo kihara, Yuta Kato, Katsufumi Matsui
 - Display Furniture Designer: Katsufumi Matsui, Wataru Ito

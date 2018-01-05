@@ -12,8 +12,6 @@ author: perms
 - 2015年度東京モーターショー TS Techさまブースのお手伝いをさせていただきました。
 - 生体信号の計測によって、気持ちに応じて形状が変化するイスを制作。デモ展示を行いました。
 - http://www.tstech.co.jp/2015motor/index.html
-<!-- ### Award
-- WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014) -->
 
 ### Credit
 - Director, Technical Director : YUTA TAKEUCHI (perms)

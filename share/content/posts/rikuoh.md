@@ -10,9 +10,7 @@ author: perms
 
 ### Description
 - ウェブローンチ後の更新作業等お手伝いいたしました。
-
-<!-- ### Award
-- WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014) -->
+- https://www.shueisha.co.jp/rikuoh/
 
 ### Credit
 - Director, Designer : YUTA TAKEUCHI (perms)

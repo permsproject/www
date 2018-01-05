@@ -10,14 +10,18 @@ author: perms
 ### Description
 - 萌えるライブを燃えるライブに。応援すればするほど、カロリーが燃えるライブ演出を行いました。
 
-### Award
-- Bapa 2zicon award
-
 ### Credit
 - Planner : Tetsuya Umeda
 - Art Director : Junya Sato
 - Engineer : Yuya Urita
 - Technical Director, Engineer : YUTA TAKEUCHI (perms)
+- Network Engineer : HIROTAKA KATAKURA (perms)
+
+### Live Stage
+- Hikarie Hall
+
+### Award
+- Bapa 2zicon award
 
 ### Movie
 <iframe src="https://player.vimeo.com/video/249294407" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

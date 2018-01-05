@@ -5,8 +5,7 @@ tags: [release]
 type: posts
 author: perms
 ---
-
-![natsuichi](/img/works/natsuichi_2016.png "natsuichi")
+![natsuichi.png](/img/works/natsuichi_2016_5.png "natsuichi")
 
 ### Description
 - 集英社文庫夏のキャンペーン、ナツイチのお手伝いをいたしました。
@@ -27,7 +26,15 @@ author: perms
 
 ![natsuichi.png](/img/works/natsuichi_2016_4.png "natsuichi")
 
-![natsuichi.png](/img/works/natsuichi_2016_3.png "natsuichi")
+![natsuichi](/img/works/natsuichi_2016.png "natsuichi")
+
+![natsuichi.png](/img/works/natsuichi_2016_6.png "natsuichi")
+
+![natsuichi.png](/img/works/natsuichi_2016_7.png "natsuichi")
+
+![natsuichi.png](/img/works/natsuichi_2016_8.png "natsuichi")
+
+![natsuichi.png](/img/works/natsuichi_2016_9.png "natsuichi")
 
 ### Movie
 <iframe src="https://player.vimeo.com/video/249294355" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
