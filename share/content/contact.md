@@ -5,8 +5,9 @@ type: page
 tags: []
 ---
 
-* お仕事のご相談、講演、VJのご依頼はこちら。
-* 企画開発から実装まで、まずはお気軽にお声がけください。
+お仕事、講演、ビール飲みましょう、などのご相談・ご依頼はこちらから。
+
+お気軽にお声がけください。
 
 <form id="contact" action="https://formspree.io/info@permsproject.com" method="POST">
   <label for="contact-name">
