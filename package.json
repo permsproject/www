@@ -29,6 +29,10 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
+    "*.styl": [
+      "stylint",
+      "git add"
+    ],
     "*.js": [
       "prettier-eslint --write",
       "eslint",
