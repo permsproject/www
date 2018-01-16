@@ -10,7 +10,7 @@ author: perms
 
 ### Description
 
-音を触感に変換するプロダクト。TechTile toolkit の廉価版を想定してつくりました。
+* 音を触感に変換するプロダクト。TechTile toolkit の廉価版を想定してつくりました。
 
 ### Award
 

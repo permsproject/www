@@ -66,6 +66,7 @@ tags: []
 ### 2017
 
 * ADFEST BRONZE
+* CLIO SILVER
 
 ### 2016
 

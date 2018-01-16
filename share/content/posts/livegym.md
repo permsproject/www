@@ -14,9 +14,6 @@ author: perms
 
 ### Credit
 
-* Planner : Tetsuya Umeda
-* Art Director : Junya Sato
-* Engineer : Yuya Urita
 * Technical Director, Engineer : YUTA TAKEUCHI (perms)
 * Network Engineer : HIROTAKA KATAKURA (perms)
 

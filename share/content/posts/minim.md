@@ -21,3 +21,7 @@ author: perms
 ### Exhibition
 
 * Smart Illumination Yokohama
+
+### Demo
+
+<iframe src="https://player.vimeo.com/video/251285896" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

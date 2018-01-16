@@ -18,7 +18,6 @@ author: perms
 
 ### Credit
 
-* Creative Director : Takuma Takasaki
 * Planner, Designer : YUTA TAKEUCHI (perms)
 * Client : Shueisha inc.
 * Production : Iyama Design inc., Geek Pictures inc. and Kayac inc.

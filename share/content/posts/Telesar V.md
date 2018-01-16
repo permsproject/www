@@ -21,7 +21,7 @@ author: perms
 * Masahiro Furukawa
 * Kouta Minamizawa
 * Susumu Tachi
-* Assistant : YUTA TAKEUCHI (perms)
+* Zatsuyou : YUTA TAKEUCHI (perms)
 
 ### Demo Movie
 

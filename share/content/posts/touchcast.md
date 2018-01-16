@@ -27,7 +27,7 @@ author: perms
 
 * Director, Engineer : YUTA TAKEUCHI (perms)
 * Engineer : HIROTAKA KATAKURA (perms)
-* Collaborators : Sho Kamuro, Kouta Minamizawa and Susumu Tachi
+* Sensei : Sho Kamuro, Kouta Minamizawa and Susumu Tachi
 
 ### Demo Movie
 

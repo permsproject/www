@@ -10,11 +10,11 @@ author: perms
 
 ### Description
 
-* 感性アナライザを介護現場で導入する試みのお手伝いを行いました。
+* 感性把握を介護現場で導入するアプリケーションの実装を行いました。
 
 ### Credit
 
-* Director, Technical Director : YUTA TAKEUCHI (perms)
+* Technical Director : YUTA TAKEUCHI (perms)
 * Production Company : Aizu Laboratory
 * Agency : Dentsu ScienceJam
 

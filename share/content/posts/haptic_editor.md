@@ -25,9 +25,9 @@ author: perms
 
 ### Credit
 
-* Director, Engineer : Sho Kamuro
-* Engineer : YUTA TAKEUCHI (perms)
-* Collaborators : Kouta Minamizawa, Susumu Tachi
+* Director : Sho Kamuro
+* Assistant : YUTA TAKEUCHI (perms)
+* Sensei : Kouta Minamizawa, Susumu Tachi
 
 ### Demo Movie
 

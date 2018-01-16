@@ -10,10 +10,7 @@ author: perms
 
 ### Description
 
-* 気分にあった UT をリコメンドするシステムの実装を支援しました。
-
-<!-- ### Award
-- WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014) -->
+* 気分にあった UT をリコメンドするシステムのサーバサイド実装を担当しました。
 
 ### Credit
 

@@ -25,6 +25,7 @@ author: perms
 ### Credit
 
 * Engineer : YUTA TAKEUCHI (perms)
+* Sensei : Sho Kamuro, Kouta Minamizawa, Susumu Tachi
 
 ### Demo Movie
 
