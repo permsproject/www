@@ -20,7 +20,6 @@ author: perms
 
 * Director, Designer : YUTA TAKEUCHI (perms)
 * Client : Shueisha inc.
-* Agency : Dentsu
 
 ### Gallery
 

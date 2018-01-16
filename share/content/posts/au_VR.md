@@ -20,7 +20,6 @@ author: perms
 * Planner, Technical Director : YUTA TAKEUCHI (perms)
 * Client : KDDI
 * Production : Bruto inc., UNLIT inc.
-* Agency : Dentsu
 
 ### Demo Movie
 

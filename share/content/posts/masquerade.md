@@ -22,7 +22,6 @@ author: perms
 * Engineer : HIROTAKA KATAKURA (perms)
 * Client : Shueisha inc.
 * Production : Bruto inc.
-* Agency : Dentsu
 
 <!-- ### Demo Movie
 <iframe src="https://player.vimeo.com/video/83606253" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

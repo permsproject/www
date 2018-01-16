@@ -21,7 +21,6 @@ author: perms
 * Planner, Designer : YUTA TAKEUCHI (perms)
 * Client : Shueisha inc.
 * Production : Iyama Design inc., Geek Pictures inc. and Kayac inc.
-* Agency : Dentsu
 
 ### Gallery
 

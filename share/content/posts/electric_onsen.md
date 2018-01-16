@@ -19,7 +19,6 @@ author: perms
 * Client : yuru sports association
 * Collaboration : Koike Lab.(TITECH)
 * Film production : TAIYO KIKAKU inc.
-* Agency : Dentsu
 
 ### Gallery
 

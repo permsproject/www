@@ -17,7 +17,6 @@ author: perms
 
 * Technical Director : YUTA TAKEUCHI (perms)
 * Client : yuru sports association, blind soccer association
-* Agency : Dentsu
 
 ### Gallery
 
