@@ -5,34 +5,13 @@ type: page
 tags: []
 ---
 
-<div class="desc">permsは東京を拠点に活動するデザインスタジオです。<span>ウェブ、インスタレーション、VRなど幅広い分野で開発、プロトタイピングを行っています。</span></div>
+* permsは東京を拠点に活動するエンジニア&デザインチームです。
+* ウェブサービス、インスタレーション、VRなどジャンルを問わず開発をしています。
+* 開発をしていないときは、よくビールを飲みます。
 
 ## Members
 
 <div class="avatars">
-  <div class="avatar yuppon">
-    <div class="head"></div>
-    <div class="icon"></div>
-    <div class="name">Yuta Takeuchi</div>
-    <div class="body">
-      <div>Founder / Design Engineer</div>
-      <div>
-        <i data-feather="mail"></i>
-        <span>yuppon@permsproject.com</span>
-      </div>
-    </div>
-    <div class="social">
-      <a href="//twitter.com/yuppon" target="new">
-        <i data-feather="twitter"></i>
-      </a>
-      <a href="//www.facebook.com/yuta.takeuchi.52" target="new">
-        <i data-feather="facebook"></i>
-      </a>
-      <a href="//www.instagram.com/yuppon" target="new">
-        <i data-feather="instagram"></i>
-      </a>
-    </div>
-  </div>
   <div class="avatar geta6">
     <div class="head"></div>
     <div class="icon"></div>
@@ -56,6 +35,29 @@ tags: []
       </a>
       <a href="//github.com/geta6" target="new">
         <i data-feather="github"></i>
+      </a>
+    </div>
+  </div>
+  <div class="avatar yuppon">
+    <div class="head"></div>
+    <div class="icon"></div>
+    <div class="name">Yuta Takeuchi</div>
+    <div class="body">
+      <div>Founder / Design Engineer</div>
+      <div>
+        <i data-feather="mail"></i>
+        <span>yuppon@permsproject.com</span>
+      </div>
+    </div>
+    <div class="social">
+      <a href="//twitter.com/yuppon" target="new">
+        <i data-feather="twitter"></i>
+      </a>
+      <a href="//www.facebook.com/yuta.takeuchi.52" target="new">
+        <i data-feather="facebook"></i>
+      </a>
+      <a href="//www.instagram.com/yuppon" target="new">
+        <i data-feather="instagram"></i>
       </a>
     </div>
   </div>

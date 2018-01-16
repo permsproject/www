@@ -5,7 +5,9 @@ type: page
 tags: []
 ---
 
-<div class="desc">お仕事のご相談、講演のご依頼はこちら。</div>
+* お仕事のご相談、講演、VJのご依頼はこちら。
+* 企画開発から実装まで、まずはお気軽にお声がけください。
+
 <form id="contact" action="https://formspree.io/info@permsproject.com" method="POST">
   <label for="contact-name">
     <span>Name:</span>
