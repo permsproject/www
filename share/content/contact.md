@@ -4,6 +4,7 @@ description: Contact
 type: page
 tags: []
 ---
+
 <div class="desc">お仕事のご相談、講演のご依頼はこちら。</div>
 <form id="contact" action="https://formspree.io/info@permsproject.com" method="POST">
   <label for="contact-name">

@@ -6,12 +6,14 @@ type: posts
 author: perms
 ---
 
-![skecth](/img/works/sketch.png "sketch")
+![skecth](/img/works/sketch.png 'sketch')
 
 ### Description
-- エンジニアとして開発を担当しました。
-- https://sketch.pixiv.net
+
+* エンジニアとして開発を担当しました。
+* https://sketch.pixiv.net
 
 ### Credit
-- Front Engineer : HIROTAKA KATAKURA (pixiv, perms)
-- Operation Company : Pixiv inc.
+
+* Front Engineer : HIROTAKA KATAKURA (pixiv, perms)
+* Operation Company : Pixiv inc.

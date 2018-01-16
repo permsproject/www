@@ -18,14 +18,13 @@ open http://localhost:1313
 
 `share/content` 以下が記事コンテンツです。
 
-ここにmdを追加すると、ヘッダのYAMLに従ってページが自動生成されます。
-
+ここに md を追加すると、ヘッダの YAML に従ってページが自動生成されます。
 
 ### Assets
 
 Javascript、Stylesheet、画像等のアセットは `src` 以下に保存されています。
 
-`js` と `css` はwebpackでまとめてmain.js/main.cssとしてビルドされます。
+`js` と `css` は webpack でまとめて main.js/main.css としてビルドされます。
 
 `public` 以下はトップレベルに展開されます。
 
@@ -35,12 +34,10 @@ Javascript、Stylesheet、画像等のアセットは `src` 以下に保存さ�
 <img class="icon" src="/profile/${user_name}.png" />
 ```
 
-
 ### Layout
 
 `share/layout` 以下がテンプレートのレイアウトファイルです。
 
-
 ## デプロイする
 
-masterブランチがCircleCIを通過すると勝手にデプロイされます。
+master ブランチが CircleCI を通過すると勝手にデプロイされます。

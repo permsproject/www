@@ -6,17 +6,19 @@ type: posts
 author: perms
 ---
 
-![tstech](http://www.tstech.co.jp/2015motor/boothreport/img/hd_boothreport@2x.jpg "tstech")
+![tstech](http://www.tstech.co.jp/2015motor/boothreport/img/hd_boothreport@2x.jpg 'tstech')
 
 ### Description
-- 2015年度東京モーターショー TS Techさまブースのお手伝いをさせていただきました。
-- 生体信号の計測によって、気持ちに応じて形状が変化するイスを制作。デモ展示を行いました。
-- http://www.tstech.co.jp/2015motor/index.html
+
+* 2015 年度東京モーターショー TS Tech さまブースのお手伝いをさせていただきました。
+* 生体信号の計測によって、気持ちに応じて形状が変化するイスを制作。デモ展示を行いました。
+* http://www.tstech.co.jp/2015motor/index.html
 
 ### Credit
-- Director, Technical Director : YUTA TAKEUCHI (perms)
-- Client : TS Tech inc.
-- Agency : Dentsu ScienceJam
+
+* Director, Technical Director : YUTA TAKEUCHI (perms)
+* Client : TS Tech inc.
+* Agency : Dentsu ScienceJam
 
 <!-- ### Demo Movie
 <iframe src="https://player.vimeo.com/video/83606253" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

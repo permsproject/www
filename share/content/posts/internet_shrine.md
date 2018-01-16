@@ -6,17 +6,22 @@ type: posts
 author: perms
 ---
 
-![touchcast](/img/works/internet_shrine.png "internet_shrine")
+![touchcast](/img/works/internet_shrine.png 'internet_shrine')
+
 ### Description
-- インターネット神社は祈ることによって、WiFiを提供してくれる神社。インターネットの神さまにお祈りしてWiFiを手に入れましょう。
-- ウェブサイト：http://internetshrine.tumblr.com/
+
+* インターネット神社は祈ることによって、WiFi を提供してくれる神社。インターネットの神さまにお祈りして WiFi を手に入れましょう。
+* ウェブサイト：http://internetshrine.tumblr.com/
 
 ### Award
-- WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014)
+
+* WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014)
 
 ### Credit
-- Director : YASUHITO TSUCHIYA
-- Engineer : YUTA TAKEUCHI (perms)
+
+* Director : YASUHITO TSUCHIYA
+* Engineer : YUTA TAKEUCHI (perms)
 
 ### Demo Movie
+
 <iframe src="https://player.vimeo.com/video/83606253" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

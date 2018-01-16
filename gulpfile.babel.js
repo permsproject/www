@@ -17,12 +17,22 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
 const $ = Object.assign(load(), {
   run: (...tasks) => new Promise((resolve) => run(...tasks, resolve)),
-  copy: (src, dst) => new Promise((resolve, reject) => ncp(src, dst, (reason) => (reason ? reject(reason) : resolve()))),
-  read: (src) => new Promise((resolve, reject) => fs.readFile(src, 'utf-8', (reason, data) => (reason ? reject(reason) : resolve(data)))),
-  write: (dst, data) => new Promise((resolve, reject) => fs.writeFile(dst, data, (reason) => (reason ? reject(reason) : resolve()))),
+  copy: (src, dst) =>
+    new Promise((resolve, reject) => ncp(src, dst, (reason) => (reason ? reject(reason) : resolve()))),
+  read: (src) =>
+    new Promise((resolve, reject) =>
+      fs.readFile(src, 'utf-8', (reason, data) => (reason ? reject(reason) : resolve(data))),
+    ),
+  write: (dst, data) =>
+    new Promise((resolve, reject) => fs.writeFile(dst, data, (reason) => (reason ? reject(reason) : resolve()))),
   rmdir: (dst) => new Promise((resolve, reject) => rimraf(dst, (err) => (err ? reject(err) : resolve()))),
   mkdir: (dst) => new Promise((resolve, reject) => mkdirp(dst, (reason) => (reason ? reject(reason) : resolve()))),
-  hugo: (options = []) => new Promise((resolve, reject) => cp.spawn(hugo, options.concat(['-s', 'share']), { stdio: 'inherit' }).on('close', (code) => (code === 0 ? resolve() : reject()))),
+  hugo: (options = []) =>
+    new Promise((resolve, reject) =>
+      cp
+        .spawn(hugo, options.concat(['-s', 'share']), { stdio: 'inherit' })
+        .on('close', (code) => (code === 0 ? resolve() : reject())),
+    ),
 });
 
 gulp.task('clean', async () => {
@@ -32,9 +42,7 @@ gulp.task('clean', async () => {
 });
 
 gulp.task('copy', async () => {
-  await Promise.all([
-    $.copy('src/public', 'share/static'),
-  ]);
+  await Promise.all([$.copy('src/public', 'share/static')]);
 });
 
 gulp.task('copy:watch', async () => {
@@ -52,7 +60,12 @@ gulp.task('copy:watch', async () => {
     await $.rmdir(dst);
     $.util.log(`Remove file ${$.util.colors.magenta(src)}`);
   };
-  chokidar.watch(['src/public/**'], { ignoreInitial: true }).on('add', change).on('change', change).on('unlink', unlink).on('unlinkDir', unlink);
+  chokidar
+    .watch(['src/public/**'], { ignoreInitial: true })
+    .on('add', change)
+    .on('change', change)
+    .on('unlink', unlink)
+    .on('unlinkDir', unlink);
 });
 
 gulp.task('bundle', async () => {
@@ -84,7 +97,6 @@ gulp.task('start', async () => {
   await $.run('clean', 'copy:watch', 'bundle');
   await new Promise((resolve) => {
     const config = webpackConfig();
-    config.watchOptions.watch = true;
     const bundler = webpack(config);
     bundler.apply(new webpack.ProgressPlugin());
     bundler.watch({ ignored: /node_modules/ }, (err, stats) => {

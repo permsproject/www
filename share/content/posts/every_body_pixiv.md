@@ -6,12 +6,14 @@ type: posts
 author: perms
 ---
 
-![skecth](/img/works/comic_store.png "emma")
+![skecth](/img/works/comic_store.png 'emma')
 
 ### Description
-- エンジニアとして開発を担当しました。
-- https://comicstore.pixiv.net
+
+* エンジニアとして開発を担当しました。
+* https://comicstore.pixiv.net
 
 ### Credit
-- Application Engineer : HIROTAKA KATAKURA (pixiv, perms)
-- Operation Company : Pixiv inc.
+
+* Application Engineer : HIROTAKA KATAKURA (pixiv, perms)
+* Operation Company : Pixiv inc.

@@ -6,15 +6,18 @@ type: posts
 author: perms
 ---
 
-![kansei](/img/works/kansei.png "kansei")
+![kansei](/img/works/kansei.png 'kansei')
 
 ### Description
-- 生体信号から「好き度」「興味度」など無意識状態における5つの感性を推定するアプリケーション。
+
+* 生体信号から「好き度」「興味度」など無意識状態における 5 つの感性を推定するアプリケーション。
 
 ### Credit
-- Director, Technical Director : YUTA TAKEUCHI (perms)
-- Production Company : Aizu Laboratory
-- Agency : Dentsu ScienceJam
+
+* Director, Technical Director : YUTA TAKEUCHI (perms)
+* Production Company : Aizu Laboratory
+* Agency : Dentsu ScienceJam
 
 ### Web
-- https://kansei-analyzer.com/
+
+* https://kansei-analyzer.com/
