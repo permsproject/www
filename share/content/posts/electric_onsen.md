@@ -2,11 +2,10 @@
 title: エレクトリック温泉
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/electric_onsen.png]
 ---
-
-![electric_onsen](/img/works/electric_onsen.png 'electric_onsen')
 
 ### Description
 
@@ -22,9 +21,9 @@ author: perms
 
 ### Gallery
 
-![electric_onsen](/img/works/electric_onsen_2.png 'electric_onsen')
+![](/img/electric_onsen_2.png)
 
-![electric_onsen](/img/works/electric_onsen_3.png 'electric_onsen')
+![](/img/electric_onsen_3.png)
 
 ### Movie
 

@@ -2,11 +2,10 @@
 title: techtile toolkit
 date: 2011-01-01 22:25:00
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/techtile.png]
 ---
-
-![techtile](/img/works/techtile.png 'techtile')
 
 ### Description
 

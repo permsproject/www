@@ -2,11 +2,10 @@
 title: ゾンビサッカー
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/zombie_soccer.png]
 ---
-
-![zombie_soccer](/img/works/zombie_soccer.png 'zombie_soccer')
 
 ### Description
 
@@ -20,6 +19,6 @@ author: perms
 
 ### Gallery
 
-![zombie_soccer](/img/works/zombie_soccer_2.png 'zombie_soccer')
+![](/img/zombie_soccer_2.png)
 
-![zombie_soccer](/img/works/zombie_soccer_3.png 'zombie_soccer')
+![](/img/zombie_soccer_3.png)

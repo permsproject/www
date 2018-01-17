@@ -2,11 +2,10 @@
 title: touchcast
 date: 2012-01-01 22:25:00
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/touchcast.png]
 ---
-
-![touchcast](/img/works/touchcast.png 'touchcast')
 
 ### Description
 

@@ -7,12 +7,12 @@
   {{ partial "assets.html" . }}
 </head>
 <body>
-  <div id='content'>
+  <div id="content">
     {{ partial "header.html" . }}
 
     <main>
-      <article itemscope itemtype='http://schema.org/Blog' itemref='maker'>
-        <h1 itemprop='name'>{{ .Title }}</h1>
+      <article itemscope itemtype="http://schema.org/Blog" itemref="maker">
+        <h1 itemprop="name">{{ .Title }}</h1>
         <ul class="title-list">
           {{ range .Data.Pages }}
             {{ partial "li.html" . }}

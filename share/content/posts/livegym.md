@@ -2,11 +2,10 @@
 title: 2zicon Live Gym
 date: 2014-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/livegym.png]
 ---
-
-![livegym](/img/works/livegym.png 'livegym')
 
 ### Description
 

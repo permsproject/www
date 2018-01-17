@@ -2,11 +2,10 @@
 title: ダッシュエックス文庫 創刊一周年CP
 date: 2015-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/dash_1st_1.png]
 ---
-
-![dashX_1st_anniversary.png](/img/works/dash_1st_1.png 'dashX_1st_anniversary')
 
 ### Description
 
@@ -23,11 +22,11 @@ author: perms
 
 ### Gallery
 
-![dashX_1st_anniversary](/img/works/dash_1st_2.png 'dashX_1st_anniversary')
+![](/img/dash_1st_2.png)
 
-![dashX_1st_anniversary.png](/img/works/dash_1st_3.png 'dashX_1st_anniversary')
+![](/img/dash_1st_3.png)
 
-![dashX_1st_anniversary.png](/img/works/dash_1st_4.png 'dashX_1st_anniversary')
+![](/img/dash_1st_4.png)
 
 <!-- ### Demo Movie
 <iframe src="https://player.vimeo.com/video/83606253" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

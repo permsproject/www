@@ -2,15 +2,10 @@
 title: Haptic Duplicator
 date: 2011-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/haptic_duplicator.png, /img/haptic_duplicator_2.png, /img/haptic_duplicator_3.png]
 ---
-
-![touchcast](/img/works/haptic_duplicator.png 'haptic_duplicator')
-
-![touchcast](/img/works/haptic_duplicator_2.png 'haptic_duplicator')
-
-![touchcast](/img/works/haptic_duplicator_3.png 'haptic_duplicator')
 
 ### Description
 

@@ -2,13 +2,10 @@
 title: てあらいかがみ
 date: 2014-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/tearaikagami.png, /img/tearaikagami_2.png]
 ---
-
-![neurocam](/img/works/tearaikagami.png 'tearaikagami')
-
-![neurocam](/img/works/tearaikagami_2.png 'tearaikagami_2')
 
 ### Description
 

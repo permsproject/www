@@ -2,11 +2,10 @@
 title: INTERNET SHRINE
 date: 2014-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/internet_shrine.png]
 ---
-
-![touchcast](/img/works/internet_shrine.png 'internet_shrine')
 
 ### Description
 

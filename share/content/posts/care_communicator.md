@@ -2,11 +2,10 @@
 title: care communicator
 date: 2015-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/care_communicator.png]
 ---
-
-![care_communicator.png](/img/works/care_communicator.png 'care_communicator.png')
 
 ### Description
 

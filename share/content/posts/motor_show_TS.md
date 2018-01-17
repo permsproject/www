@@ -2,11 +2,10 @@
 title: モーターショー2015
 date: 2015-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/motor_show_TS.jpg]
 ---
-
-![tstech](http://www.tstech.co.jp/2015motor/boothreport/img/hd_boothreport@2x.jpg 'tstech')
 
 ### Description
 

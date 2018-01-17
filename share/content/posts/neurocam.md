@@ -2,13 +2,10 @@
 title: neurocam
 date: 2014-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/neurocam.png, /img/neurocam_2.png]
 ---
-
-![neurocam](/img/works/neurocam.png 'neurocam')
-
-![neurocam](/img/works/neurocam_2.png 'neurocam_2')
 
 ### Description
 

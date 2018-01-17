@@ -2,11 +2,10 @@
 title: pixiv Sketch
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/sketch.png]
 ---
-
-![skecth](/img/works/sketch.png 'sketch')
 
 ### Description
 

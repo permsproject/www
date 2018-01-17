@@ -2,11 +2,10 @@
 title: UMOOD
 date: 2015-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/umood.png]
 ---
-
-![umood](/img/works/UMOOD.png 'v')
 
 ### Description
 

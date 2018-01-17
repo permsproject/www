@@ -2,11 +2,10 @@
 title: みんなのpixivコミックストア
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/comic_store.png]
 ---
-
-![skecth](/img/works/comic_store.png 'emma')
 
 ### Description
 

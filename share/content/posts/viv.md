@@ -2,11 +2,10 @@
 title: viv
 date: 2017-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/viv_2.png]
 ---
-
-![viv](/img/works/viv_2.png 'viv')
 
 ### Description
 

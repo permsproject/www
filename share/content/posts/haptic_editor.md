@@ -2,13 +2,10 @@
 title: Haptic Editor
 date: 2012-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/haptic_editor.png, /img/haptic_editor_2.png]
 ---
-
-![haptic_editor](/img/works/haptic_editor.png 'haptic_editor')
-
-![haptic_editor](/img/works/haptic_editor_2.png 'haptic_editor')
 
 ### Description
 

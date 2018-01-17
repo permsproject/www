@@ -2,11 +2,10 @@
 title: au × HAKUTO VR
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/au_vr.png]
 ---
-
-![au_VR](/img/works/au_VR.png 'au_VR')
 
 ### Description
 

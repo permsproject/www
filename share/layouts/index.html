@@ -3,22 +3,21 @@
 <head>
   {{ partial "meta.html" . }}
   <title>{{ .Site.Title }}</title>
-  <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+  <script src="//unpkg.com/feather-icons/dist/feather.min.js"></script>
+  <script src="//typesquare.com/accessor/script/typesquare.js?xHmO-mbn6D8%3D" charset="utf-8"></script>
   {{ partial "assets.html" . }}
 </head>
 <body>
-  <div id='content'>
+  <div id="content">
     {{ partial "header.html" . }}
 
     <main>
-      <article itemscope itemtype='http://schema.org/Blog' itemref='maker'>
-        <h1 itemprop='name'>What's New</h1>
-        <section>
-          <h2>All Entries</h2>
-          <ul class="title-list">{{ range .Site.Pages }}{{ partial "li.html" . }}{{ end }}</ul>
-        </section>
-      </article>
-      <div id='push'></div>
+      <div class="article">
+        {{ range where .Site.Pages "Type" "post" }}
+          {{ partial "li.html" . }}
+        {{ end }}
+      </div>
+      <div id="push"></div>
     </main>
 
   </div>

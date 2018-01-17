@@ -2,12 +2,10 @@
 title: au × HAKUTO プラネタリウム
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
-draft: true
+captions: [/img/au_planetarium.png]
 ---
-
-![au_planetarium](/img/works/au_planetarium.png 'au_planetarium')
 
 ### Description
 

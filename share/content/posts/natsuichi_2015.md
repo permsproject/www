@@ -2,11 +2,10 @@
 title: ナツイチ 2015
 date: 2015-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/natsuichi_2015.png]
 ---
-
-![natsuichi](/img/works/natsuichi_2015.png 'natsuichi')
 
 ### Description
 
@@ -24,13 +23,13 @@ author: perms
 
 ### Gallery
 
-![natsuichi](/img/works/natsuichi_2015_4.png 'natsuichi')
+![](/img/natsuichi_2015_4.png)
 
-![natsuichi](/img/works/natsuichi_2015_5.png 'natsuichi')
+![](/img/natsuichi_2015_5.png)
 
-![natsuichi](/img/works/natsuichi_2015_2.png 'natsuichi')
+![](/img/natsuichi_2015_2.png)
 
-![natsuichi.png](/img/works/natsuichi_2015_3.png 'natsuichi')
+![](/img/natsuichi_2015_3.png)
 
 ### Movie
 

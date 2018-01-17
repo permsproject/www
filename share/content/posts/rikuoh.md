@@ -2,11 +2,10 @@
 title: 陸王 ウェブ
 date: 2015-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/rikuoh.png]
 ---
-
-![rikuoh](/img/works/rikuoh.png 'rikuoh')
 
 ### Description
 

@@ -5,25 +5,25 @@
   <title>{{ .Title }} — {{ .Site.Title }}</title>
   <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
   {{ partial "assets.html" . }}
-  <script type="text/javascript" src="//typesquare.com/accessor/script/typesquare.js?xHmO-mbn6D8%3D" charset="utf-8"></script>
 </head>
 <body>
-  <div id='content'>
+  <div id="content">
     {{ partial "header.html" . }}
 
     <main>
-      <article itemscope itemtype='http://schema.org/BlogPosting' itemref='maker'>
+      <article class="article" itemscope itemtype="http://schema.org/BlogPosting" itemref="maker">
         {{ partial "navi.html" . }}
         <h1>{{ .Title }}</h1>
         <section class="{{ .Type }}">
-          {{ if eq .Type "works" }}
-            {{ partial "works.html" . }}
-          {{ else }}
-            {{ .Content }}
+          {{ with $.Params.captions }}
+            {{ range $.Params.captions }}
+              <img src="{{ . }}" />
+            {{ end }}
           {{ end }}
+          {{ .Content }}
         </section>
       </article>
-      <div id='push'></div>
+      <div id="push"></div>
     </main>
 
   </div>

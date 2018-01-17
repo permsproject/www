@@ -2,11 +2,10 @@
 title: 超大量絵馬
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/ema.png]
 ---
-
-![skecth](/img/works/emma.png 'emma')
 
 ### Description
 

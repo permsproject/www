@@ -2,11 +2,10 @@
 title: ReFunbilitation Clinic
 date: 2016-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/refunbilitation_1.png]
 ---
-
-![refunbilitation](/img/works/refunbilitation_1.png 'refunbilitation')
 
 ### Description
 
@@ -27,9 +26,9 @@ author: perms
 
 ### Gallery
 
-![refunbilitation](/img/works/refunbilitation_2.png 'refunbilitation')
+![](/img/refunbilitation_2.png)
 
-![refunbilitation](/img/works/refunbilitation_3.png 'refunbilitation')
+![](/img/refunbilitation_3.png)
 
 ### Movie
 

@@ -1,68 +1,68 @@
-.avatars
+.avatar
+  width 100%
+  box-shadow inset 0 0 0 1px $color-gray3
   text-align center
+  overflow hidden
 
-  .avatar
+  & + .avatar
     margin-top $gutter * 4
-    width 100%
-    box-shadow 0 0 0 1px $color-gray3
-    overflow hidden
 
-    .head, .icon
-      background-size cover
-      background-position 50% 50%
-      background-repeat no-repeat
+  .head, .icon
+    background-size cover
+    background-position 50% 50%
+    background-repeat no-repeat
 
+  .head
+    height $gutter * 18
+
+  .icon
+    margin $gutter * -5 auto 0
+    width $gutter * 10
+    height $gutter * 10
+    border-radius 50%
+    box-shadow 0 0 0 $gutter * 0.5 rgba(255, 255, 255, 0.24)
+
+  .name
+    margin $gutter
+    color $color-gray2
+    font-size 2em
+    font-weight 700
+    border-bottom 1px dotted $color-gray3
+
+  .body
+    margin-bottom $gutter * 2
+
+    svg
+      display inline-block
+      vertical-align middle
+      width 1em
+      height 1em
+
+  .social
+    margin-bottom $gutter * 2
+
+    a
+      display inline-block
+      vertical-align middle
+      color $color-emphasis1
+
+      & + a
+        margin-left $gutter
+
+    svg
+      width 1.5em
+      height 1.5em
+
+  &.yuppon
     .head
-      height $gutter * 18
+      background-image url('/profile/yuppon_bg.jpg')
 
     .icon
-      margin $gutter * -5 auto 0
-      width $gutter * 10
-      height $gutter * 10
-      border-radius 50%
-      box-shadow 0 0 0 $gutter * 0.5 rgba(255, 255, 255, 0.24)
+      background-image url('/profile/yuppon.png')
 
-    .name
-      margin $gutter
-      color $color-gray2
-      font-size 2em
-      font-weight 700
-      border-bottom 1px dotted $color-gray3
+  &.geta6
+    .head
+      background-image url('/profile/geta6_bg.jpg')
 
-    .body
-      margin-bottom $gutter * 2
-
-      svg
-        display inline-block
-        vertical-align middle
-        width 1em
-        height 1em
-
-    .social
-      margin-bottom $gutter * 2
-
-      a
-        display inline-block
-        vertical-align middle
-        color $color-emphasis1
-
-        & + a
-          margin-left $gutter
-
-      svg
-        width 1.5em
-        height 1.5em
-
-    &.yuppon
-      .head
-        background-image url('/profile/yuppon_bg.jpg')
-
-      .icon
-        background-image url('/profile/yuppon.png')
-
-    &.geta6
-      .head
-        background-image url('/profile/geta6_bg.jpg')
-
-      .icon
-        background-image url('/profile/geta6.png')
+    .icon
+      background-image url('/profile/geta6.png')

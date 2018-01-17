@@ -2,11 +2,10 @@
 title: minim
 date: 2017-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/minim.png]
 ---
-
-![minim](/img/works/minim.png 'minim')
 
 ### Description
 

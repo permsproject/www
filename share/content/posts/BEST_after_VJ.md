@@ -2,16 +2,14 @@
 title: BEST -Hilty&Bosch after Live VJ
 date: 2014-01-01 15:22:25
 tags: [release]
-type: posts
+type: post
 author: perms
+captions: [/img/hilty_vj.png]
 ---
-
-![hilty_vj.png](/img/works/hilty_vj.png 'hilty_vj.png')
 
 ### Description
 
-* Hilty & Bosch | BEST -Hilty&Bosch New Old School Dance LiveにてVJとして出演させていただきました。
-
+* Hilty & Bosch | BEST -Hilty&Bosch New Old School Dance Live にて VJ として出演させていただきました。
 
 ### Credit
 
