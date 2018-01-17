@@ -28,9 +28,40 @@
 
   .description
     flex 2
+    display flex
+    flex-direction column
+    justify-content space-between
     padding $gutter
+
+    .header
+      .tag
+        padding 0 $gutter
 
     .title
       font-size 1.2em
       font-weight 700
       transition color 0.24s $easing-quick
+
+    .footer
+      display flex
+      align-items center
+      justify-content space-between
+
+      .members
+        display flex
+
+      .member
+        display flex
+        align-items center
+
+        & + .member
+          margin-left $gutter * 2
+
+        img
+          width $gutter * 4
+          height @width
+          border-radius 50%
+
+        span
+          margin-left $gutter
+          font-weight bold

@@ -7,14 +7,28 @@
     {{ end }}
   </div>
   <div class="description">
-    {{ with .Params.tags }}
-      {{ range sort . }}
-        <a class="tag tag-{{ . }}" href="/tags/{{ . | urlize }}">
-          {{ substr . 0 1 | upper }}{{ substr . 1 }}
-        </a>
+    <div class="header">
+      {{ with .Params.tags }}
+        {{ range sort . }}
+          <a class="tag tag-{{ . }}" href="/tags/{{ . | urlize }}">
+            {{ substr . 0 1 | upper }}{{ substr . 1 }}
+          </a>
+        {{ end }}
       {{ end }}
-    {{ end }}
+    </div>
     <div class="title">{{ .Title }}</div>
-    <time>{{ .Date.Format "2006" }}</time>
+    <div class="footer">
+      <time>{{ .Date.Format "2006" }}</time>
+      <div class="members">
+        {{ with $.Params.members }}
+          {{ range sort $.Params.members }}
+            <div class="member">
+              <img src="/profile/{{ . }}.png">
+              <span>{{ . }}</span>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
   </div>
 </section>
