@@ -14,7 +14,7 @@
     <main>
       <div class="article">
         {{ range where .Site.Pages "Type" "post" }}
-          {{ partial "li.html" . }}
+          {{ partial "preview.html" . }}
         {{ end }}
       </div>
       <div id="push"></div>

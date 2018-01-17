@@ -4,6 +4,7 @@ date: 2012-01-01 22:25:00
 tags: [release]
 type: post
 author: perms
+members: [geta6, yuppon]
 captions: [/img/touchcast.png]
 ---
 

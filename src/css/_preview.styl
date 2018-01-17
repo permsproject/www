@@ -1,6 +1,36 @@
 .preview
-  padding $gutter
-  border 1px solid $color-gray4
+  display flex
+  align-items top
+  background-color $color-gray5
+  transition background-color 0.24s $easing-quick
 
   & + .preview
     margin-top $gutter * 4
+
+  &:hover
+    cursor pointer
+    background-color white
+
+    .caption img
+      transform scale(1.12)
+
+    .description .title
+      color $color-emphasis2
+
+  .caption
+    flex 1
+    display block
+    overflow hidden
+
+    img
+      display block
+      transition transform 0.24s $easing-quick
+
+  .description
+    flex 2
+    padding $gutter
+
+    .title
+      font-size 1.2em
+      font-weight 700
+      transition color 0.24s $easing-quick

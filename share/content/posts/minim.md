@@ -4,6 +4,7 @@ date: 2017-01-01 15:22:25
 tags: [release]
 type: post
 author: perms
+members: [yuppon]
 captions: [/img/minim.png]
 ---
 

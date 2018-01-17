@@ -51,30 +51,28 @@
   .tags
     display flex
     align-items center
+    font-size 1.2em
 
   .tag
     width $gutter * 15
     height $gutter * 5
     line-height @height
     color white
-    font-size 1.2em
     font-weight 700
     text-align center
+    background-color $color-gray2
 
     & + .tag, & + .author
       margin-left $gutter
 
-    &.tag-release
+    &.tag-clientWork
       background-color $color-emphasis1
 
-    &.tag-lifehack
+    &.tag-product
       background-color $color-emphasis2
 
-    &.tag-engineering
+    &.tag-exhibition
       background-color $color-emphasis3
-
-    &.tag-poem
-      background-color $color-gray2
 
   .author
     display flex

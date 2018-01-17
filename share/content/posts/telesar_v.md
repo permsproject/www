@@ -4,7 +4,7 @@ date: 2011-01-01 22:25:00
 tags: [release]
 type: post
 author: perms
-captions: /img/telesar5.png
+captions: [/img/telesar5.png]
 ---
 
 ### Description

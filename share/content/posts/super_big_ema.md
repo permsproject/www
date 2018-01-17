@@ -4,6 +4,7 @@ date: 2016-01-01 15:22:25
 tags: [release]
 type: post
 author: perms
+members: [geta6]
 captions: [/img/ema.png]
 ---
 

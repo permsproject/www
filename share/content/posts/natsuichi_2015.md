@@ -4,6 +4,7 @@ date: 2015-01-01 15:22:25
 tags: [release]
 type: post
 author: perms
+members: [yuppon]
 captions: [/img/natsuichi_2015.png]
 ---
 
