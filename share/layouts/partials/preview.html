@@ -1,24 +1,32 @@
 <section class="preview" onclick="location.href='{{ .Permalink }}'">
+
   <div class="caption">
     {{ with $.Params.captions }}
       {{ range first 1 $.Params.captions }}
-        <img src="{{ . }}" />
+        <div class="caption-image" style="background-image:url('{{ . }}')"></div>
       {{ end }}
     {{ end }}
   </div>
+
   <div class="description">
     <div class="header">
-      {{ with .Params.tags }}
-        {{ range sort . }}
-          <a class="tag tag-{{ . }}" href="/tags/{{ . | urlize }}">
-            {{ substr . 0 1 | upper }}{{ substr . 1 }}
-          </a>
+      <div class="tags">
+        {{ with .Params.tags }}
+          {{ range sort . }}
+            <a class="tag tag-{{ . }}" href="/tags/{{ . | urlize }}">
+              {{ substr . 0 1 | upper }}{{ substr . 1 }}
+            </a>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-    <div class="title">{{ .Title }}</div>
-    <div class="footer">
+      </div>
       <time>{{ .Date.Format "2006" }}</time>
+    </div>
+
+    <div class="title">
+      <span>{{ .Title }}</span>
+    </div>
+
+    <div class="footer">
       <div class="members">
         {{ with $.Params.members }}
           {{ range sort $.Params.members }}
@@ -31,4 +39,5 @@
       </div>
     </div>
   </div>
+
 </section>

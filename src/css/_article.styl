@@ -37,6 +37,10 @@
     margin-left 2em
     padding-left 0
 
+  img, iframe
+    width 100%
+    max-width 100%
+
   nav
     margin-bottom $gutter * 2
     display flex
@@ -44,46 +48,51 @@
     justify-content space-between
     width 100%
 
-  img, iframe
-    width 100%
-    max-width 100%
-
   .tags
     display flex
     align-items center
-    font-size 1.2em
 
   .tag
     width $gutter * 15
-    height $gutter * 5
+    height $gutter * 4
     line-height @height
     color white
     font-weight 700
     text-align center
     background-color $color-gray2
+    box-shadow ($gutter * 0.5) ($gutter * 0.5) 0 rgba(@background-color, 0.24)
 
     & + .tag, & + .author
       margin-left $gutter
 
     &.tag-clientWork
       background-color $color-emphasis1
+      box-shadow ($gutter * 0.5) ($gutter * 0.5) 0 rgba(@background-color, 0.24)
 
     &.tag-product
       background-color $color-emphasis2
+      box-shadow ($gutter * 0.5) ($gutter * 0.5) 0 rgba(@background-color, 0.24)
 
     &.tag-exhibition
       background-color $color-emphasis3
+      box-shadow ($gutter * 0.5) ($gutter * 0.5) 0 rgba(@background-color, 0.24)
 
-  .author
+  .members
     display flex
-    height $gutter * 5
     align-items center
 
+  .member
+    display flex
+    align-items center
+    font-weight bold
+
+    & + .member
+      margin-left $gutter * 2
+
     img
-      width $gutter * 4
+      width $gutter * 3
       height @width
       border-radius 50%
 
     span
       margin-left $gutter
-      font-weight bold

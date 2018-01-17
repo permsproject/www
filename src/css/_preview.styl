@@ -11,7 +11,7 @@
     cursor pointer
     background-color white
 
-    .caption img
+    .caption .caption-image
       transform scale(1.12)
 
     .description .title
@@ -22,9 +22,16 @@
     display block
     overflow hidden
 
+    .caption-image
+      width 100%
+      height 100%
+      background-size cover
+      background-repeat no-repeat
+      background-position 50% 50%
+      transition transform 0.24s $easing-quick
+
     img
       display block
-      transition transform 0.24s $easing-quick
 
   .description
     flex 2
@@ -33,35 +40,23 @@
     justify-content space-between
     padding $gutter
 
+    time
+      font-weight bold
+
     .header
-      .tag
-        padding 0 $gutter
+      display flex
+      align-items center
+      justify-content space-between
 
     .title
-      font-size 1.2em
+      display flex
+      align-items center
+      font-size 1.6em
       font-weight 700
+      min-height $gutter * 10
       transition color 0.24s $easing-quick
 
     .footer
       display flex
       align-items center
       justify-content space-between
-
-      .members
-        display flex
-
-      .member
-        display flex
-        align-items center
-
-        & + .member
-          margin-left $gutter * 2
-
-        img
-          width $gutter * 4
-          height @width
-          border-radius 50%
-
-        span
-          margin-left $gutter
-          font-weight bold
