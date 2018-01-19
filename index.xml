@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perms Project</title>
+    <link>http://permsproject.com/</link>
+    <description>Recent content on Perms Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 01 Jan 2017 15:22:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://permsproject.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>minim</title>
+      <link>http://permsproject.com/posts/minim/</link>
+      <pubDate>Sun, 01 Jan 2017 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/minim/</guid>
+      <description> Description  音声を分析して、環境に呼応する照明を制作しました。人の声、環境音に応じてフワフワとパターンが変化します。  Credit  Director, Engineer : YUTA TAKEUCHI (perms) Design Engineer : Shunsuke Yoko Engineer : Kodai Horita  Exhibition  Smart Illumination Yokohama  Demo  </description>
+    </item>
+    
+    <item>
+      <title>マスカレードシリーズ ウェブ</title>
+      <link>http://permsproject.com/posts/masquerade/</link>
+      <pubDate>Sun, 01 Jan 2017 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/masquerade/</guid>
+      <description> Description  マスカレード・ナイト発売時、リニューアルと発売プロモーションを担当しました。 グラフィック, ウェブ, ムービー etc&amp;hellip;  Credit  Director, Designer : YUTA TAKEUCHI (perms) Engineer : HIROTAKA KATAKURA (perms) Client : Shueisha inc. Production : Bruto inc.   -- </description>
+    </item>
+    
+    <item>
+      <title>ReFunbilitation Clinic</title>
+      <link>http://permsproject.com/posts/refunbilitation_clinic/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/refunbilitation_clinic/</guid>
+      <description> Description  お年寄りが楽しみながらリハビリできるトレーニングコンテンツの制作に協力しました。  Credit  Technical Director : YUTA TAKEUCHI (perms) Client : hitorizawa, yuru sports association Production : TAIYO KIKAKU inc. and Tongaruman inc.  Award  CANNE LIONS PHARMA BRONZE 2016 SPIKES BRONZE 2016 AD STAR SILVER 2016 ADFEST BRONZE 2017  Gallery Movie  </description>
+    </item>
+    
+    <item>
+      <title>au × HAKUTO VR</title>
+      <link>http://permsproject.com/posts/au_vr/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/au_vr/</guid>
+      <description> Description  au × HAKUTO MOON CHALLENGE の一環として、月面旅行が当たり前になった時代を舞台にした VR の制作をお手伝いしました。VR ヘッドセットをかぶり、バスに乗り込むとバスの走行に応じて、VR 空間内の視点も移動。まるで月面探査車に乗って月を旅しているかの体験ができます。  Credit  Planner, Technical Director : YUTA TAKEUCHI (perms) Client : KDDI Production : Bruto inc., UNLIT inc.  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>au × HAKUTO プラネタリウム</title>
+      <link>http://permsproject.com/posts/au_planetarium/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/au_planetarium/</guid>
+      <description> Description  au × HAKUTO MOON CHALLENGE の一環として、プラネタリムの制作をお手伝いしました。  Credit  Planner : YUTA TAKEUCHI (perms) Client : KDDI Production : KONICA MINOLTA  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>pixiv Sketch</title>
+      <link>http://permsproject.com/posts/sketch/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/sketch/</guid>
+      <description> Description  エンジニアとして開発を担当しました。 https://sketch.pixiv.net  Credit  Front Engineer : HIROTAKA KATAKURA (pixiv, perms) Operation Company : Pixiv inc.  </description>
+    </item>
+    
+    <item>
+      <title>みんなのpixivコミックストア</title>
+      <link>http://permsproject.com/posts/every_body_pixiv/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/every_body_pixiv/</guid>
+      <description> Description  エンジニアとして開発を担当しました。 https://comicstore.pixiv.net  Credit  Application Engineer : HIROTAKA KATAKURA (pixiv, perms) Operation Company : Pixiv inc.  </description>
+    </item>
+    
+    <item>
+      <title>エレクトリック温泉</title>
+      <link>http://permsproject.com/posts/electric_onsen/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/electric_onsen/</guid>
+      <description> Description  銭湯や温泉にプロジェクションすることで、ゲームやコンテンツ鑑賞を行えるシステムを開発しました。 プロジェクションマッピング, モーションキャプチャ, ゲームデザイン  Credit  Technical Director : YUTA TAKEUCHI (perms) Client : yuru sports association Collaboration : Koike Lab.(TITECH) Film production : TAIYO KIKAKU inc.  Gallery Movie  </description>
+    </item>
+    
+    <item>
+      <title>ナツイチ 2016</title>
+      <link>http://permsproject.com/posts/natsuichi_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/natsuichi_2016/</guid>
+      <description> Description  集英社文庫夏のキャンペーン、ナツイチのお手伝いをいたしました。 ウェブ, ムービー, グラフィック etc&amp;hellip;  Credit  Director, Planner : YUTA TAKEUCHI (perms) Client : Shueisha inc. Production : Iyama Design inc., Geek Pictures inc. and Kaibutsu inc.  Gallery Movie  </description>
+    </item>
+    
+    <item>
+      <title>超大量絵馬</title>
+      <link>http://permsproject.com/posts/super_big_ema/</link>
+      <pubDate>Fri, 01 Jan 2016 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/super_big_ema/</guid>
+      <description> Description  pixiv10,000,000 ユーザー突破記念コンテンツ「超大量絵馬」 エンジニアとして開発を行いました。 http://10000000.pixiv.net  Credit  Application Engineer : HIROTAKA KATAKURA (pixiv, perms) Operation Company : Pixiv inc.  </description>
+    </item>
+    
+    <item>
+      <title>UMOOD</title>
+      <link>http://permsproject.com/posts/umood/</link>
+      <pubDate>Thu, 01 Jan 2015 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/umood/</guid>
+      <description> Description  気分にあった UT をリコメンドするシステムのサーバサイド実装を担当しました。  Credit  Technical Director : YUTA TAKEUCHI (perms) Client : UNIQLO Australia inc. Production : Isobar Australia Agency : Dentsu ScienceJam  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>care communicator</title>
+      <link>http://permsproject.com/posts/care_communicator/</link>
+      <pubDate>Thu, 01 Jan 2015 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/care_communicator/</guid>
+      <description> Description  感性把握を介護現場で導入するアプリケーションの実装を行いました。  Credit  Technical Director : YUTA TAKEUCHI (perms) Production Company : Aizu Laboratory Agency : Dentsu ScienceJam  Award  ADFEST BRONZE  Movie  </description>
+    </item>
+    
+    <item>
+      <title>ダッシュエックス文庫 創刊一周年CP</title>
+      <link>http://permsproject.com/posts/dashx_1st/</link>
+      <pubDate>Thu, 01 Jan 2015 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/dashx_1st/</guid>
+      <description> Description  ダッシュエックス文庫創刊キャンペーンに続き、一周年キャンペーンのお手伝いをさせていただきました。 グラフィック, 各種販促物, 3D キャラクター etc&amp;hellip;  Credit  Director, Designer : YUTA TAKEUCHI (perms) Client : Shueisha inc.  Gallery  -- </description>
+    </item>
+    
+    <item>
+      <title>ナツイチ 2015</title>
+      <link>http://permsproject.com/posts/natsuichi_2015/</link>
+      <pubDate>Thu, 01 Jan 2015 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/natsuichi_2015/</guid>
+      <description> Description  集英社文庫夏のキャンペーン、ナツイチのお手伝いをいたしました。 ウェブ, ムービー, グラフィック etc&amp;hellip;  Credit  Planner, Designer : YUTA TAKEUCHI (perms) Client : Shueisha inc. Production : Iyama Design inc., Geek Pictures inc. and Kayac inc.  Gallery Movie  </description>
+    </item>
+    
+    <item>
+      <title>モーターショー2015</title>
+      <link>http://permsproject.com/posts/motor_show_ts/</link>
+      <pubDate>Thu, 01 Jan 2015 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/motor_show_ts/</guid>
+      <description> Description  2015 年度東京モーターショー TS Tech さまブースのお手伝いをさせていただきました。 生体信号の計測によって、気持ちに応じて形状が変化するイスを制作。デモ展示を行いました。 http://www.tstech.co.jp/2015motor/index.html  Credit  Director, Technical Director : YUTA TAKEUCHI (perms) Client : TS Tech inc. Agency : Dentsu ScienceJam   -- </description>
+    </item>
+    
+    <item>
+      <title>陸王 ウェブ</title>
+      <link>http://permsproject.com/posts/rikuoh/</link>
+      <pubDate>Thu, 01 Jan 2015 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/rikuoh/</guid>
+      <description> Description  ウェブローンチ後の更新作業等お手伝いいたしました。 https://www.shueisha.co.jp/rikuoh/  Credit  Director, Designer : YUTA TAKEUCHI (perms) Engineer : HIROTAKA KATAKURA (perms) Client : Shueisha inc. Production : Dentsu Creative X   -- </description>
+    </item>
+    
+    <item>
+      <title>2zicon Live Gym</title>
+      <link>http://permsproject.com/posts/livegym/</link>
+      <pubDate>Wed, 01 Jan 2014 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/livegym/</guid>
+      <description> Description  萌えるライブを燃えるライブに。応援すればするほど、カロリーが燃えるライブ演出を行いました。  Credit  Tetsuya Umeda Junya Sato Yuya Urita Technical Director, Engineer : YUTA TAKEUCHI (perms) Network Engineer : HIROTAKA KATAKURA (perms)  Live Stage  Hikarie Hall  Award  Bapa 2zicon award  Movie  Media  http://www.sensors.jp/post/bapa_live.html  </description>
+    </item>
+    
+    <item>
+      <title>BEST -Hilty&amp;Bosch after Live VJ</title>
+      <link>http://permsproject.com/posts/best_after_vj/</link>
+      <pubDate>Wed, 01 Jan 2014 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/best_after_vj/</guid>
+      <description> Description  Hilty &amp;amp; Bosch | BEST -Hilty&amp;amp;Bosch New Old School Dance Live にて VJ として出演させていただきました。  Credit  Performer : Hilty &amp;amp; Bosch Directors : STUTS, Tatsuya Ogusu, Katsufumi Matsui VJ : YUTA TAKEUCHI (perms)  PV  </description>
+    </item>
+    
+    <item>
+      <title>INTERNET SHRINE</title>
+      <link>http://permsproject.com/posts/internet_shrine/</link>
+      <pubDate>Wed, 01 Jan 2014 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/internet_shrine/</guid>
+      <description> Description  インターネット神社は祈ることによって、WiFi を提供してくれる神社。インターネットの神さまにお祈りして WiFi を手に入れましょう。 ウェブサイト：http://internetshrine.tumblr.com/  Award  WIRED CREATIVE HACK AWARD BEST PRESENTATION (2014)  Credit  Director : YASUHITO TSUCHIYA Engineer : YUTA TAKEUCHI (perms)  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>neurocam</title>
+      <link>http://permsproject.com/posts/neurocam/</link>
+      <pubDate>Wed, 01 Jan 2014 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/neurocam/</guid>
+      <description> Description  あなたのキモチを理解するウェアラブルカメラ。頭につけたセンサーから脳波を解析し、あなたが「気になる瞬間」を自動的に記録してくれます。  Award  DIGITAL CONTENT EXPO Emerging Technologies 2014 採択  Exhibition  DIGITAL CONTENT EXPO  Credit  Director : KANA NAKANO Producer : TOMONORI KAGAYA, TOSHITAKA KAMIYA, YASUE MITSUKURA Art Director : IPPEI IWAHARA Engineer : MIKITO OGINO Technical Director : YUTA TAKEUCHI (perms)  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>てあらいかがみ</title>
+      <link>http://permsproject.com/posts/tearaikagami/</link>
+      <pubDate>Wed, 01 Jan 2014 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/tearaikagami/</guid>
+      <description> Description  手洗いの重要性は認識されていきているものの、正しい手洗いの方法は浸透していなく、病気の十分な予防には至っていません。「てあらいかがみ」は、ゲームのようにたのしく、正しい手洗いの方法を勉強できる鏡です。夢中になって、遊んでいるうちにいつの間にか手が綺麗になっています。  Award  Digital signage award 2014 審査員特別賞 学生 CG コンテスト 審査員特別賞 ASIA DIGITAL ART AWARD 入選  Exhibition  ASIA DIGITAL ART AWARD 受賞展  Credit  Creative Director &amp;amp; Technical Director : YUTA TAKEUCHI(perms) Art Director &amp;amp; Designer : Eri Nishihara Engineer: Yuta Takeuchi, Tomo kihara, Yuta Kato, Katsufumi Matsui Display Furniture Designer: Katsufumi Matsui, Wataru Ito  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>感性アナライザ</title>
+      <link>http://permsproject.com/posts/kansei/</link>
+      <pubDate>Wed, 01 Jan 2014 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/kansei/</guid>
+      <description> Description  生体信号から「好き度」「興味度」など無意識状態における 5 つの感性を推定するアプリケーション。  Credit  Technical Director : YUTA TAKEUCHI (perms) Production Company : Aizu Laboratory Agency : Dentsu ScienceJam  Web  https://kansei-analyzer.com/  </description>
+    </item>
+    
+    <item>
+      <title>touchcast</title>
+      <link>http://permsproject.com/posts/touchcast/</link>
+      <pubDate>Sun, 01 Jan 2012 22:25:00 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/touchcast/</guid>
+      <description>Description  触感コンテンツをオンラインで創作できるプラットフォーム。現実世界の触感をコピーして、塗り絵のように触感をペーストできます。この触感のコピー＆ペーストをマイクとスピーカーという誰でも簡単に扱うことができるシステム構成で実現しました。  Award  IPA 未踏クリエータ認定 芸術科学会奨励賞  Exhibition &amp;amp; Publication  Yuta Takeuchi, Hirotaka Katakura, Sho Kamuro, Kouta Minamizawa and Susumu Tachi: TouchCast :An On-line Platform for Creation and Sharing of Tactile Content Based on Tactile Copy &amp;amp; Paste, ACM UIST 2012, Demonstrations, Boston, CA, USA (2012.10)
+ Yuta Takeuchi, Sho Kamuro, Kouta Minamizawa and Susumu Tachi: TouchCast, in Proc. Laval Virtual VRIC 2012, Laval, France (2013.</description>
+    </item>
+    
+    <item>
+      <title>Haptic Editor</title>
+      <link>http://permsproject.com/posts/haptic_editor/</link>
+      <pubDate>Sun, 01 Jan 2012 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/haptic_editor/</guid>
+      <description> Description  絵を書くように 3D モデリングが可能なエディタ。更に触覚までデザインすることができます。  Award  Laval Virtual Award, Category of Industrial design and Simulation  Publication  Sho Kamuro, Yuta Takeuchi, Kouta Minamizawa and Susumu Tachi: Haptic Editor, ACM SIGGAPH 2012, Posters, Los Angeles, CA, USA (2012.8) Sho Kamuro, Yuta Takeuchi, Kouta Minamizawa and Susumu Tachi: Haptic Editor, ACM SIGGRAPH ASIA 2012 Emerging Technologies, Hong Kong (2012. 12)  Credit  Director : Sho Kamuro Assistant : YUTA TAKEUCHI (perms) Sensei : Kouta Minamizawa, Susumu Tachi  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>Telesar V</title>
+      <link>http://permsproject.com/posts/telesar_v/</link>
+      <pubDate>Sat, 01 Jan 2011 22:25:00 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/telesar_v/</guid>
+      <description> Description  自分の分身となるアバターロボットとまるで一体となったかのような感覚で、視覚・聴覚・触覚が融合した遠隔体験を得ることができる「テレイグジスタンス」ロボット。 ごくわずかにお手伝いさせていただきました。  Credit  Charith Fernando MHD Yamen Saraiji Tadatoshi Kurogi Masahiro Furukawa Kouta Minamizawa Susumu Tachi Zatsuyou : YUTA TAKEUCHI (perms)  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>techtile toolkit</title>
+      <link>http://permsproject.com/posts/tectile_toolkit/</link>
+      <pubDate>Sat, 01 Jan 2011 22:25:00 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/tectile_toolkit/</guid>
+      <description> Description  触感を用いた表現のためのラピッドプロトタイピングツール。 ごくわずかにお手伝いさせていただきました。  Credit  Kouta Minamizawa Masashi Nakatani Yasuaki Kakehi Souichirou Mihara Susumu Tachi Assistant : YUTA TAKEUCHI (perms)  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>Haptic Duplicator</title>
+      <link>http://permsproject.com/posts/haptic_duplicator/</link>
+      <pubDate>Sat, 01 Jan 2011 15:22:25 +0000</pubDate>
+      
+      <guid>http://permsproject.com/posts/haptic_duplicator/</guid>
+      <description> Description  モノの触り心地を感じられる 3D テレビ。飛び出てきた物体に触ることができます。  publication  Yuta Takeuchi, Sho Kamuro, Kouta Minamizawa and Susumu Tachi: Haptic Duplicator, in Proc. Laval Virtual VRIC 2012, Laval, France (2012.3) 竹内祐太, 家室証, 南澤孝太, 舘暲:触圧と振動を音声信号として取得する触覚スキャナの開発, 日本機械学会 ロボティクス・メカトロニクス講演会 2012(Robomec2012)論文集, 1A1-A01 (2012.5) 竹内祐太, 家室証, 南澤孝太, 舘暲:Haptic Duplicator:触感のコピー&amp;amp;ペーストに基づく 3DCG 触覚インタラクション, 日本バーチャルリアリティ学会 第 17 回大会, 34D-2(2012.9)  Credit  Engineer : YUTA TAKEUCHI (perms) Sensei : Sho Kamuro, Kouta Minamizawa, Susumu Tachi  Demo Movie  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://permsproject.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://permsproject.com/about/</guid>
+      <description>perms は東京を拠点とする制作チームです。
+ウェブ、インスタレーション、VR などジャンルを問わず開発しています。
+開発をしていないときは、よくビールを飲みます。
+Members   Hirotaka Katakura Founder / Engineer              Yuta Takeuchi Founder / Engineer          Award 2017  ADFEST BRONZE CLIO SILVER  2016  AD STAR SILVER CANNES LIONS BRONZE SPIKES SILVER  2015  電通広告賞 サイネージ部門最優秀賞 ADFEST BRONZE  2014  WIRED CREATIVE HACK AWARD BEST PRESENTATION DIGITAL CONTENT EXPO Emerging Technologies デジタルサイネージアワード 審査員特別賞  2013  ASIA DIGITAL ART AWARD 入選 学生 CG コンテスト 審査員特別賞  2012  Laval Virtual Award, Category of Industrial design and Simulation IPA 未踏クリエータ 認定 芸術科学会 奨励賞  Exhibition 2017  Smart Illumination Yokohama, Yokohama Tech Crunch Tokyo, Tokyo, Hikarie Hall  2015  LIVE BAPA, Tokyo, Hikarie Hall Dubai Lynx, Dubai  2014  LAVAL VIRTUAL, France I.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://permsproject.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://permsproject.com/contact/</guid>
+      <description>制作、展示、ビール飲みましょう、などのお誘いはこちらから。
+お気軽にお声がけください。
+Name:  Email:  Message:    </description>
+    </item>
+    
+  </channel>
+</rss>
