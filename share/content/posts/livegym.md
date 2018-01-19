@@ -14,6 +14,9 @@ captions: [/img/livegym.png]
 
 ### Credit
 
+* Tetsuya Umeda
+* Junya Sato
+* Yuya Urita
 * Technical Director, Engineer : YUTA TAKEUCHI (perms)
 * Network Engineer : HIROTAKA KATAKURA (perms)
 
