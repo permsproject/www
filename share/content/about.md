@@ -5,9 +5,9 @@ type: page
 tags: []
 ---
 
-perms は東京を拠点に活動するエンジニア&デザインチームです。
+perms は東京を拠点とする制作チームです。
 
-ウェブサービス、インスタレーション、VR などジャンルを問わず開発をしています。
+ウェブ、インスタレーション、VR などジャンルを問わず開発しています。
 
 開発をしていないときは、よくビールを飲みます。
 
@@ -19,10 +19,6 @@ perms は東京を拠点に活動するエンジニア&デザインチームで�
   <div class="name">Hirotaka Katakura</div>
   <div class="body">
     <div>Founder / Engineer</div>
-    <div>
-      <i data-feather="mail"></i>
-      <span>geta6@permsproject.com</span>
-    </div>
   </div>
   <div class="social">
     <a href="//twitter.com/geta6" target="new">
@@ -44,11 +40,7 @@ perms は東京を拠点に活動するエンジニア&デザインチームで�
   <div class="icon"></div>
   <div class="name">Yuta Takeuchi</div>
   <div class="body">
-    <div>Founder / Design Engineer</div>
-    <div>
-      <i data-feather="mail"></i>
-      <span>yuppon@permsproject.com</span>
-    </div>
+    <div>Founder / Engineer</div>
   </div>
   <div class="social">
     <a href="//twitter.com/yuppon" target="new">
